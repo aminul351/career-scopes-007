@@ -1,0 +1,711 @@
+[
+    {
+        "id": "CSE",
+        "title": "Computer Science & Engineering",
+        "subtitle": "Driving innovation through software, AI, and computing technologies.",
+        "image": "cse_image_url",
+        "sub_cat": [
+          {
+            "id": "software",
+            "name": "Software Engineering",
+            "description": "Focuses on designing, developing, and maintaining software applications.",
+            "image": "software_image_url",
+            "roadmap": [
+              "Bachelor's in Computer Science or Software Engineering",
+              "Internships in software development companies",
+              "Master’s in Software Engineering or AI",
+              "Certifications in Agile, DevOps, or Cloud Computing",
+              "Research in AI-driven software development"
+            ],
+            "qualification": [
+              "Bachelor's in Computer Science or related field",
+              "Proficiency in programming languages (Python, Java, C++)",
+              "Knowledge of data structures and algorithms",
+              "Experience with software development frameworks",
+              "Understanding of software testing and DevOps practices"
+            ],
+            "related_videos": [
+              {
+                "title": "Introduction to Software Engineering",
+                "url": "https://www.youtube.com/watch?v=7W5uH2fczpM"
+              },
+              {
+                "title": "Software Development Life Cycle Explained",
+                "url": "https://www.youtube.com/watch?v=qc1owf2-220"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "Best Software Engineering Blogs",
+                "url": "https://www.freecodecamp.org/news/tag/software-engineering/"
+              },
+              {
+                "title": "Software Engineering Trends",
+                "url": "https://www.thoughtworks.com/insights/blog"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Developing a full-stack web application",
+              "Creating a mobile app with Flutter or React Native",
+              "Building a microservices-based architecture",
+              "Implementing CI/CD pipelines with Jenkins or GitHub Actions",
+              "Developing AI-driven code review tools"
+            ],
+            "internship_and_job_market_insight": [
+              "Internships at software firms and startups",
+              "High demand for full-stack developers",
+              "Opportunities in cloud computing and DevOps",
+              "Roles in software quality assurance and automation",
+              "Growing need for AI and machine learning engineers"
+            ]
+          },
+          {
+            "id": "ai_ml",
+            "name": "Artificial Intelligence & Machine Learning",
+            "description": "Explores the development of intelligent systems and data-driven decision-making.",
+            "image": "ai_ml_image_url",
+            "roadmap": [
+              "Bachelor’s in Computer Science with AI/ML focus",
+              "Internships in AI research labs or tech companies",
+              "Master’s in Artificial Intelligence or Data Science",
+              "Certifications in TensorFlow, PyTorch, or NLP",
+              "Research in deep learning and generative AI"
+            ],
+            "qualification": [
+              "- Bachelor’s in CSE, AI, or Data Science <br>", 
+              "- Proficiency in Python, R, and ML frameworks",
+              "- Understanding of neural networks and deep learning",
+              "- Experience with cloud-based AI platforms",
+              "- Ability to process and analyze large datasets"
+            ],
+            "related_videos": [
+              {
+                "title": "Machine Learning Crash Course by Google",
+                "url": "https://developers.google.com/machine-learning/crash-course"
+              },
+              {
+                "title": "Introduction to Neural Networks",
+                "url": "https://www.youtube.com/watch?v=aircAruvnKk"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "AI & ML Research Blogs",
+                "url": "https://www.analyticsvidhya.com/blog/"
+              },
+              {
+                "title": "DeepMind AI Blog",
+                "url": "https://www.deepmind.com/blog"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Building an image classification model using CNN",
+              "Developing a chatbot using NLP",
+              "Creating a recommendation system",
+              "Implementing AI for medical diagnosis",
+              "Researching AI ethics and fairness"
+            ],
+            "internship_and_job_market_insight": [
+              "Internships at AI startups and research institutes",
+              "High demand for AI engineers in healthcare and finance",
+              "Opportunities in autonomous systems and robotics",
+              "Roles in AI model optimization and deployment",
+              "Growing field of AI ethics and responsible AI"
+            ]
+          },
+          {
+            "id": "cybersecurity",
+            "name": "Cybersecurity",
+            "description": "Focuses on protecting digital assets from cyber threats.",
+            "image": "cybersecurity_image_url",
+            "roadmap": [
+              "Bachelor’s in Computer Science or Cybersecurity",
+              "Internships in cybersecurity firms or IT security teams",
+              "Certifications in CEH, CISSP, or CompTIA Security+",
+              "Master’s in Cybersecurity or Information Security",
+              "Research in cryptography and ethical hacking"
+            ],
+            "qualification": [
+              "Bachelor’s in CSE, IT Security, or related field",
+              "Knowledge of network security and cryptography",
+              "Familiarity with penetration testing tools",
+              "Understanding of ethical hacking techniques",
+              "Proficiency in security compliance and regulations"
+            ],
+            "related_videos": [
+              {
+                "title": "Introduction to Cybersecurity",
+                "url": "https://www.youtube.com/watch?v=ke_pTUSRaYg"
+              },
+              {
+                "title": "Ethical Hacking Full Course",
+                "url": "https://www.youtube.com/watch?v=fNzpcB7ODxQ"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "Top Cybersecurity Blogs",
+                "url": "https://securityintelligence.com/"
+              },
+              {
+                "title": "Cybersecurity News & Insights",
+                "url": "https://www.darkreading.com/"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Setting up a home penetration testing lab",
+              "Developing a secure authentication system",
+              "Implementing encryption algorithms",
+              "Building an intrusion detection system",
+              "Researching AI-based cybersecurity solutions"
+            ],
+            "internship_and_job_market_insight": [
+              "Internships with cybersecurity firms and IT security teams",
+              "High demand for ethical hackers and penetration testers",
+              "Opportunities in cloud security and blockchain security",
+              "Roles in cybersecurity consulting and risk assessment",
+              "Growing field of AI-powered security solutions"
+            ]
+          }
+        ]
+      }
+      ,
+
+
+
+
+
+
+
+
+
+    {
+        "id": "EEE",
+        "title": "Electrical & Electronics Engineering",
+        "subtitle": "Innovating solutions for power, electronics, and communications.",
+        "image": "eee_image_url",
+        "sub_cat": [
+          {
+            "id": "power",
+            "name": "Power Engineering",
+            "description": "Focuses on the generation, transmission, and distribution of electrical power.",
+            "image": "power_image_url",
+            "roadmap": [
+              "Bachelor's in Electrical Engineering",
+              "Internships in Power Plants / Grid Stations",
+              "Master's Specialization in Power Systems",
+              "Industry Certifications (PE, PMP, etc.)",
+              "Research in Renewable Energy / Smart Grids"
+            ],
+            "qualification": [
+              "Bachelor's in Electrical or Power Engineering",
+              "Knowledge of power systems and electrical machinery",
+              "Proficiency in simulation software (e.g., MATLAB, PSS/E)",
+              "Strong analytical and problem-solving skills",
+              "Understanding of safety standards and regulations"
+            ],
+            "related_videos": [
+              {
+                "title": "Power Engineering Simplified",
+                "url": "https://www.youtube.com/@PowerEngineeringSimplified"
+              },
+              {
+                "title": "Power Electronics | MIT OpenCourseWare",
+                "url": "https://ocw.mit.edu/courses/6-622-power-electronics-spring-2023/resources/lecture-videos/"
+              },
+              {
+                "title": "Power Learning Channel",
+                "url": "https://www.youtube.com/@ELECTRICALPOWERGENERATION/videos"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "Latest Power Engineering Articles",
+                "url": "https://eepower.com/latest/"
+              },
+              {
+                "title": "Power Industry and Energy News",
+                "url": "https://www.power-eng.com/"
+              },
+              {
+                "title": "20 Best Electrical Engineering Blogs",
+                "url": "https://bloggers.feedspot.com/electrical_engineering_blogs/"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Design and analysis of renewable energy systems (e.g., solar, wind)",
+              "Development of smart grid technologies",
+              "Power system stability and control studies",
+              "Energy storage solutions and battery management systems",
+              "Implementation of power electronics in modern power systems"
+            ],
+            "internship_and_job_market_insight": [
+              "Internships at utility companies, renewable energy firms, and power equipment manufacturers",
+              "Growing demand for engineers skilled in renewable energy integration",
+              "Opportunities in smart grid technology development",
+              "Roles in power system planning and reliability assessment",
+              "Positions in regulatory bodies overseeing energy policies"
+            ]
+          },
+          {
+            "id": "electronics",
+            "name": "Electronics Engineering",
+            "description": "Deals with the design and development of electronic circuits, devices, and systems.",
+            "image": "electronics_image_url",
+            "roadmap": [
+              "Bachelor's in Electronics Engineering",
+              "Internships in electronics design firms",
+              "Master's in Microelectronics or Embedded Systems",
+              "Certifications in VLSI Design or Embedded Systems",
+              "Research in Nanoelectronics or IoT Devices"
+            ],
+            "qualification": [
+              "Bachelor's in Electronics Engineering or related field",
+              "Proficiency in circuit design and simulation tools",
+              "Knowledge of semiconductor devices",
+              "Skills in programming and embedded systems",
+              "Ability to troubleshoot and repair electronic systems"
+            ],
+            "related_videos": [
+              {
+                "title": "Power Electronics Videos | CUSP",
+                "url": "https://cusp.umn.edu/power-electronics/power-electronics"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "EEPower - Electrical Power Engineering Technical Articles",
+                "url": "https://eepower.com/"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Designing wearable health monitoring devices",
+              "Developing IoT-based home automation systems",
+              "Creating energy-efficient power supplies",
+              "Research in flexible electronics and displays",
+              "Building robotics and automation controllers"
+            ],
+            "internship_and_job_market_insight": [
+              "Internships in consumer electronics companies",
+              "Demand for embedded systems engineers in automotive industries",
+              "Opportunities in semiconductor manufacturing firms",
+              "Roles in research and development of new electronic materials",
+              "Positions in telecommunications equipment design"
+            ]
+          },
+          {
+            "id": "communications",
+            "name": "Communication Systems",
+            "description": "Encompasses the study of systems and networks used for transmitting information.",
+            "image": "communications_image_url",
+            "roadmap": [
+              "Bachelor's in Communication Engineering",
+              "Internships with telecom service providers",
+              "Master's in Signal Processing or Network Engineering",
+              "Certifications in Network Security or Wireless Communications",
+              "Research in 5G/6G Technologies or Optical Communications"
+            ],
+            "qualification": [
+              "Bachelor's in Communication or Telecommunication Engineering",
+              "Understanding of signal processing and modulation techniques",
+              "Knowledge of network protocols and architectures",
+              "Skills in using communication system simulation tools",
+              "Familiarity with wireless communication standards"
+            ],
+            "related_videos": [
+              {
+                "title": "Power system engineering - YouTube",
+                "url": "https://www.youtube.com/playlist?list=PLi5hEpEXBAsLWtXR9_UYNDflNeoEK7s6y"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "The Best Engineering Blogs You Must Read",
+                "url": "https://newengineer.com/insight/the-10-best-engineering-blogs-you-must-read-1004858"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Developing software-defined radio systems",
+              "Designing and optimizing wireless sensor networks",
+              "Implementing error detection and correction algorithms",
+              "Research in satellite communication technologies",
+              "Creating secure communication protocols for IoT devices"
+            ],
+            "internship_and_job_market_insight": [
+              "Internships with mobile network operators",
+              "Growing need for network security specialists",
+              "Opportunities in designing communication protocols for IoT",
+              "Roles in developing next-generation wireless technologies",
+              "Positions in satellite and space communication firms"
+            ]
+          }
+        ]
+      }
+      
+    ,
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "id": "ME",
+        "title": "Mechanical Engineering",
+        "subtitle": "Designing and innovating in machines, robotics, and energy systems.",
+        "image": "me_image_url",
+        "sub_cat": [
+          {
+            "id": "automobile",
+            "name": "Automobile Engineering",
+            "description": "Focuses on designing, manufacturing, and maintaining automotive vehicles.",
+            "image": "automobile_image_url",
+            "roadmap": [
+              "Bachelor’s in Mechanical or Automobile Engineering",
+              "Internships in automotive companies (e.g., Tesla, BMW, Toyota)",
+              "Master’s in Automotive Engineering or Mechatronics",
+              "Certifications in CAD, EV technology, and Vehicle Dynamics",
+              "Research in Electric Vehicles and Autonomous Cars"
+            ],
+            "qualification": [
+              "Bachelor’s in Mechanical or Automotive Engineering",
+              "Proficiency in CAD software (SolidWorks, CATIA)",
+              "Understanding of vehicle dynamics and aerodynamics",
+              "Knowledge of internal combustion engines and EV technology",
+              "Experience in automotive testing and safety regulations"
+            ],
+            "related_videos": [
+              {
+                "title": "How an Internal Combustion Engine Works",
+                "url": "https://www.youtube.com/watch?v=toVfvRhWbj8"
+              },
+              {
+                "title": "Tesla's Electric Vehicle Technology Explained",
+                "url": "https://www.youtube.com/watch?v=UacYa54JtUg"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "Automobile Engineering News & Trends",
+                "url": "https://www.autoevolution.com/"
+              },
+              {
+                "title": "Top EV Engineering Blogs",
+                "url": "https://insideevs.com/"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Building an electric go-kart",
+              "Designing an autonomous vehicle prototype",
+              "Optimizing aerodynamics for race cars",
+              "Developing battery management systems for EVs",
+              "Researching alternative fuels and hybrid vehicle technology"
+            ],
+            "internship_and_job_market_insight": [
+              "Internships at automotive giants like Tesla, Ford, and Mercedes",
+              "Growing demand for EV engineers and battery specialists",
+              "Opportunities in autonomous vehicle software development",
+              "Roles in vehicle safety testing and crash analysis",
+              "Positions in motorsports engineering and F1 teams"
+            ]
+          },
+          {
+            "id": "robotics",
+            "name": "Robotics & Automation",
+            "description": "Explores the design and development of intelligent robotic systems.",
+            "image": "robotics_image_url",
+            "roadmap": [
+              "Bachelor’s in Mechanical, Mechatronics, or Robotics Engineering",
+              "Internships in industrial automation and robotics firms",
+              "Master’s in Robotics or AI-driven Automation",
+              "Certifications in PLC, ROS, and Industrial IoT",
+              "Research in AI-powered robotics and autonomous systems"
+            ],
+            "qualification": [
+              "Bachelor’s in Mechanical, Mechatronics, or Electrical Engineering",
+              "Knowledge of robotic kinematics and control systems",
+              "Experience in automation tools like PLC and SCADA",
+              "Proficiency in programming (Python, MATLAB, ROS)",
+              "Understanding of AI applications in robotics"
+            ],
+            "related_videos": [
+              {
+                "title": "Introduction to Robotics",
+                "url": "https://www.youtube.com/watch?v=GQ4ym3Dp9Qg"
+              },
+              {
+                "title": "Boston Dynamics: The Future of Robots",
+                "url": "https://www.youtube.com/watch?v=tF4DML7FIWk"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "Robotics & Automation Trends",
+                "url": "https://spectrum.ieee.org/robotics"
+              },
+              {
+                "title": "Industrial Robotics Insights",
+                "url": "https://www.roboticsbusinessreview.com/"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Building a robotic arm for automation",
+              "Developing a self-balancing robot",
+              "Creating a drone with AI-based navigation",
+              "Implementing machine learning in robotic vision",
+              "Researching humanoid robots and soft robotics"
+            ],
+            "internship_and_job_market_insight": [
+              "Internships in robotics startups and industrial automation companies",
+              "High demand for automation engineers in manufacturing",
+              "Opportunities in AI-driven robotics and humanoid development",
+              "Roles in robotic process automation (RPA) for industries",
+              "Positions in aerospace robotics and defense applications"
+            ]
+          },
+          {
+            "id": "thermal_energy",
+            "name": "Thermal & Energy Systems",
+            "description": "Focuses on energy generation, heat transfer, and sustainable energy solutions.",
+            "image": "thermal_energy_image_url",
+            "roadmap": [
+              "Bachelor’s in Mechanical or Energy Engineering",
+              "Internships in thermal power plants or renewable energy firms",
+              "Master’s in Renewable Energy or Thermal Systems",
+              "Certifications in HVAC, CFD, and Sustainable Energy",
+              "Research in solar, wind, and hydrogen fuel technology"
+            ],
+            "qualification": [
+              "Bachelor’s in Mechanical or Energy Engineering",
+              "Knowledge of thermodynamics and heat transfer",
+              "Proficiency in simulation tools (ANSYS, CFD, MATLAB)",
+              "Experience with renewable energy systems",
+              "Understanding of energy efficiency and sustainability"
+            ],
+            "related_videos": [
+              {
+                "title": "How Nuclear Power Plants Work",
+                "url": "https://www.youtube.com/watch?v=1U6Nzcv9Vws"
+              },
+              {
+                "title": "The Future of Renewable Energy",
+                "url": "https://www.youtube.com/watch?v=85hGg8INrBo"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "Energy Engineering & Sustainability Blogs",
+                "url": "https://www.renewableenergyworld.com/"
+              },
+              {
+                "title": "HVAC & Thermal Systems Research",
+                "url": "https://www.ashrae.org/"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Designing a solar-powered water heater",
+              "Optimizing heat exchanger efficiency",
+              "Developing a wind turbine energy conversion system",
+              "Building a hydrogen fuel cell prototype",
+              "Researching thermal energy storage solutions"
+            ],
+            "internship_and_job_market_insight": [
+              "Internships in power plants and renewable energy companies",
+              "Growing demand for sustainable energy engineers",
+              "Opportunities in HVAC system design and maintenance",
+              "Roles in nuclear energy research and thermal management",
+              "Positions in energy policy and environmental consulting"
+            ]
+          }
+        ]
+      }
+      ,
+
+
+
+
+
+
+
+
+
+
+      {
+        "id": "BD_GOVT_JOBS",
+        "title": "Bangladesh Government Jobs",
+        "subtitle": "Securing a prestigious career in Bangladesh's public sector.",
+        "image": "bd_govt_jobs_image_url",
+        "sub_cat": [
+          {
+            "id": "bcs",
+            "name": "Bangladesh Civil Service (BCS)",
+            "description": "The most prestigious government job sector in Bangladesh, offering roles in administration, police, taxation, and more.",
+            "image": "bcs_image_url",
+            "roadmap": [
+              "Bachelor’s degree from a recognized university",
+              "Preparation for BCS Preliminary Exam",
+              "Passing the BCS Written Exam",
+              "Qualifying in the BCS Viva Examination",
+              "Medical and Police Verification before final selection"
+            ],
+            "qualification": [
+              "Minimum a Bachelor’s degree in any discipline",
+              "Strong command over Bangla, English, and General Knowledge",
+              "Analytical and problem-solving skills",
+              "Physical fitness (for BCS Police & Defense Cadres)",
+              "High ethical and leadership qualities"
+            ],
+            "related_videos": [
+              {
+                "title": "BCS Exam Preparation Guide",
+                "url": "https://www.youtube.com/watch?v=abc123"
+              },
+              {
+                "title": "How to Crack BCS Exam in First Attempt",
+                "url": "https://www.youtube.com/watch?v=xyz456"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "Latest BCS Exam Circular & Guidelines",
+                "url": "https://www.bpsc.gov.bd/"
+              },
+              {
+                "title": "BCS Exam Preparation Strategies",
+                "url": "https://www.shikkhabarta.com/"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Practicing BCS previous year question papers",
+              "Engaging in mock interviews and group discussions",
+              "Researching Bangladesh Constitution & Public Administration",
+              "Understanding National & International Current Affairs",
+              "Analyzing case studies on policy implementation"
+            ],
+            "internship_and_job_market_insight": [
+              "Thousands of candidates apply for limited BCS positions annually",
+              "BCS Admin, Police, and Foreign Affairs are the most competitive cadres",
+              "High demand for specialists in Taxation, Customs, and Education",
+              "Growing importance of ICT and Engineering Cadres",
+              "BCS officers receive extensive training and career growth opportunities"
+            ]
+          },
+          {
+            "id": "banking",
+            "name": "Government Banking Jobs",
+            "description": "Includes roles in Bangladesh Bank, Sonali Bank, Janata Bank, and other state-owned financial institutions.",
+            "image": "banking_image_url",
+            "roadmap": [
+              "Bachelor’s in Finance, Business, Economics, or related field",
+              "Preparation for Bank Recruitment Exams",
+              "Passing the Written Test",
+              "Qualifying in the Viva Examination",
+              "Final Selection and Training before Joining"
+            ],
+            "qualification": [
+              "Minimum a Bachelor’s degree in Business, Economics, or IT",
+              "Strong mathematical and analytical skills",
+              "Understanding of banking laws and regulations",
+              "Computer proficiency (MS Excel, Banking Software)",
+              "Effective communication and customer service skills"
+            ],
+            "related_videos": [
+              {
+                "title": "How to Prepare for Bangladesh Bank Exam",
+                "url": "https://www.youtube.com/watch?v=def789"
+              },
+              {
+                "title": "Top Tips for Bank Job Written Exam",
+                "url": "https://www.youtube.com/watch?v=ghi101"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "Latest Govt Banking Job Circulars",
+                "url": "https://www.bdjobs.com/"
+              },
+              {
+                "title": "Bangladesh Bank Job Preparation",
+                "url": "https://www.bb.org.bd/"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Practicing banking aptitude test questions",
+              "Studying financial statement analysis",
+              "Understanding monetary policies and economic trends",
+              "Participating in mock interviews for banking jobs",
+              "Analyzing banking fraud and risk management case studies"
+            ],
+            "internship_and_job_market_insight": [
+              "High competition for Bangladesh Bank and state-owned bank positions",
+              "Opportunities in treasury, risk management, and fintech",
+              "Growth in digital banking and fintech innovations",
+              "Stable career with job security and pension benefits",
+              "Bank officers receive extensive training in financial management"
+            ]
+          },
+          {
+            "id": "engineering_govt",
+            "name": "Government Engineering Jobs",
+            "description": "Includes roles in PWD, LGED, BPDB, Bangladesh Railway, and other public engineering sectors.",
+            "image": "engineering_govt_image_url",
+            "roadmap": [
+              "Bachelor’s in Civil, Mechanical, Electrical, or relevant Engineering field",
+              "Applying for PSC or respective organization recruitment exams",
+              "Passing the Written Exam",
+              "Qualifying in the Viva Examination",
+              "Final Selection and Technical Training"
+            ],
+            "qualification": [
+              "Bachelor’s in Civil, Electrical, Mechanical, or relevant Engineering",
+              "Knowledge of government infrastructure projects",
+              "Understanding of public works regulations and procurement",
+              "Experience with engineering design and simulation tools",
+              "Project management and problem-solving skills"
+            ],
+            "related_videos": [
+              {
+                "title": "How to Prepare for Govt Engineering Jobs",
+                "url": "https://www.youtube.com/watch?v=jkl234"
+              },
+              {
+                "title": "PSC Engineering Exam Tips",
+                "url": "https://www.youtube.com/watch?v=mno567"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "Latest Engineering Job Circulars",
+                "url": "https://www.bdjobs.com/"
+              },
+              {
+                "title": "Government Engineering Exam Preparation",
+                "url": "https://www.lged.gov.bd/"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Studying structural analysis and design projects",
+              "Learning about power grid management and automation",
+              "Understanding railway track design and transportation systems",
+              "Analyzing energy-efficient building materials",
+              "Working on renewable energy projects for rural areas"
+            ],
+            "internship_and_job_market_insight": [
+              "Engineering jobs in Bangladesh government provide stability and benefits",
+              "Increasing demand for civil engineers in urban development projects",
+              "Opportunities in power grid expansion and energy sector reforms",
+              "Growth in railway and transportation infrastructure projects",
+              "Government engineers play a key role in national development initiatives"
+            ]
+          }
+        ]
+      }
+      
+  ]
+  
