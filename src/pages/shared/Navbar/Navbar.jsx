@@ -1,6 +1,7 @@
 import { useContext } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { AuthContext } from '../../../provider/authContext';
+import logo from '../../../assets/images/logo2.png'
 
 const Navbar = () => {
 
@@ -33,7 +34,7 @@ const Navbar = () => {
     <li className="text-gray-800 transition-transform duration-300 ease-in-out transform hover:-translate-y-1"><NavLink className={({ isActive, isPending }) =>
       isPending ? "pending" : isActive ? "font-bold" : ""}
       style={{ background: 'none' }}
-      to={'/blog'}>Blog</NavLink></li>
+      to={'/aboutUs'}>About Us</NavLink></li>
 
 
 
@@ -41,7 +42,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <div className="navbar bg-gray-100 py-4 px-12">
+      <div className="navbar  bg-gray-100 py-4 px-12">
         <div className="navbar-start">
           <div className="dropdown">
             <label tabIndex={0} className="  lg:hidden">
@@ -60,15 +61,15 @@ const Navbar = () => {
                 />
               </svg>
             </label>
-            <ul
+            <ul 
               tabIndex={0}
-              className="menu menu-sm dropdown-content mt-3  p-2  rounded-3xl w-52">
+              className="menu z-50 menu-sm dropdown-content mt-3  p-2  rounded-3xl w-52">
               {items}
 
             </ul>
           </div>
-          logo
-          {/* <NavLink to={'/'}> <img className="w-24" src={logo} alt="" /> </NavLink> */}
+          
+          <NavLink to={'/'}> <img className="w-32" src={logo} alt="" /> </NavLink>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">

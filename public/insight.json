@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "date": "November 22, 2024",
+      "title": "Top Industries In Nebraska You Should Know About",
+      "image": "https://i.ibb.co.com/dJ5Dnsbb/insight3.png",
+      "link": "/insights/top-industries",
+      "description": "Discover the key industries driving Nebraska's economy and the opportunities they offer."
+    },
+    {
+      "id": 2,
+      "date": "September 5, 2024",
+      "title": "Using CareerPathway.Com As A Virtual Component For Career Fairs",
+      "image": "https://i.ibb.co.com/wZZksWhh/insight4.png",
+      "link": "/insights/virtual-career-fairs",
+      "description": "Learn how CareerPathway.Com is revolutionizing virtual career fairs and connecting job seekers with employers."
+    },
+    {
+      "id": 3,
+      "date": "August 6, 2024",
+      "title": "CareerPathway.Com Lunch & Learn Hosted By Lincoln Partnership For Economic Development",
+      "image": "https://i.ibb.co.com/35vN5GnJ/insight5.png",
+      "link": "/insights/lunch-learn",
+      "description": "An exclusive networking event hosted by CareerPathway.Com and Lincoln Partnership for Economic Development."
+    },
+    {
+      "id": 4,
+      "date": "July 22, 2024",
+      "title": "The Solution For Career Growth: Unlocking Opportunities",
+      "image": "https://i.ibb.co.com/t09zB2K/insight6.png",
+      "link": "/insights/career-growth",
+      "description": "Explore strategies to accelerate your career growth and achieve long-term professional success."
+    },
+    {
+      "id": 5,
+      "date": "July 16, 2024",
+      "title": "LPED, CareerScope.Com Partnership Announcement",
+      "image": "https://i.ibb.co.com/qMySHmNB/insight2.png",
+      "link": "/insights/partnership-announcement",
+      "description": "Exciting news! CareerPathway.Com is partnering with LPED to expand career opportunities and resources."
+    },
+    {
+      "id": 6,
+      "date": "July 1, 2024",
+      "title": "The Education To Workforce Pipeline: Bridging The Gap",
+      "image": "https://i.ibb.co.com/BhfLjM4/insight1.png",
+      "link": "/insights/education-workforce",
+      "description": "How educational institutions and industries are working together to prepare students for the workforce."
+    }
+  ]
+  

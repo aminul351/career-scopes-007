@@ -1,3 +1,11 @@
+
+/* * {
+    outline: 1px solid red;
+} */
+body {
+    overflow-x: hidden;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

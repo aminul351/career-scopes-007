@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
 import Category from "./Category";
 
 const Categories = () => {
@@ -14,14 +13,9 @@ const Categories = () => {
 
     console.log(sectors);
     return (
-        <div>
+        <div className="grid container  mt-24 px-4 w-full  grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {
                 sectors.map(item => (<Category item = {item} key={item.id}>
-                     {/* <h2>{item.title}</h2>
-                     <h2>{item.subtitle}</h2>
-                                <Link to={`/categories/${item.id}`}><button>more</button></Link> */}
-
-                                
                 </Category>))
             }
         </div>

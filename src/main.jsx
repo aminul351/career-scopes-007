@@ -17,6 +17,7 @@ import CatDetails from './pages/Categories/CatDetails';
 import SubCatDetails from './pages/Categories/SubCatDetails';
 import AuthProvider from './provider/AuthProvider';
 import PrivateRoute from './PrivateRoute/PrivateRoute';
+import AboutUs from './pages/AboutUs/AboutUs';
 
 
 const router = createBrowserRouter([
@@ -40,6 +41,11 @@ const router = createBrowserRouter([
       {
         path: '/whyUs',
         element: <WhyUs />
+
+      },
+      {
+        path: '/aboutUs',
+        element: <AboutUs />
 
       },
       {

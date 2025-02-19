@@ -1,27 +1,33 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const Category = ({item}) => {
-    const{id, title,subtitle} = item;
-    return (
-        <div >
-            <div className="card card-compact bg-base-100 w-96 shadow-xl">
-  <figure>
-    <img
-      src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-      alt="Shoes" />
-  </figure>
-  <div className="card-body">
-    <h2 className="card-title">{title}</h2>
-    <p>{subtitle}</p>
-    <div className="card-actions justify-end">
-    <Link className='btn btn-primary' to={`/categories/${id}`}><button>more</button></Link>
+const Category = ({ item }) => {
+  const { id, title, subtitle, image } = item;
+  return (
+    <div >
+      
+      <Link to={`/categories/${id}`}>
+
+      <div className=" bg-base-100 shadow-xl">
+        <figure>
+          <img className='w-full h-[300px]'
+            src={image}
+            alt="Shoes" />
+        </figure>
+        <div className="card-body">
+          <h2 className="text-3xl font-bold">{title}</h2>
+          <p className='className="text-xl font-semibold"'>{subtitle}</p>
+          <div className="card-actions justify-end">
+            {/* <Link className='' to={`/categories/${id}`}>  <button className="bg-[#00bcf1] px-4 py-2 text-lg rounded-3xl"
+            >
+              See More</button></Link> */}
+          </div>
+        </div>
+      </div>
+      </Link>
     </div>
-    </div>
-  </div>
-</div>
-            
-    );
+
+  );
 };
 
 export default Category;
