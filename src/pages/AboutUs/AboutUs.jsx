@@ -4,7 +4,9 @@ const AboutUs = () => {
     return (
         <div>
               <div className='pt-24 max-w-xl mx-auto'>
-            <Lottie animationData={comingSoon} loop={true} />;
+
+                jijiiiiiiiii
+            <Lottie animationData={comingSoon} loop={true} />
         </div>
         </div>
     );
