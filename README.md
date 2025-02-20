@@ -20,5 +20,5 @@ Visit our live website: [https://career-scopes-007.netlify.app/](https://career-
 ## Installation & Setup  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/CareerScope.git
-   cd CareerScope
+   git clone https://github.com/aminul351/career-scopes-007.git
+   cd career-scopes-007
