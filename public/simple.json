@@ -543,9 +543,9 @@
         "id": "thermal_energy",
         "name": "Thermal & Energy Systems",
         "description": "Focuses on energy generation, heat transfer, and sustainable energy solutions.",
-        "image": "https://i.ibb.co.com/YB25L4Z7/thermal.jpg",
-        "apply_link": "",
-        "monthly_salary": "",
+        "image": "https://i.ibb.co/YB25L4Z7/thermal.jpg",
+        "apply_link": "https://example.com/apply", 
+        "monthly_salary": "60,000 - 1,00,000", 
         "roadmap": [
           "Bachelor’s in Mechanical or Energy Engineering",
           "Internships in thermal power plants or renewable energy firms",
@@ -593,8 +593,61 @@
           "Opportunities in HVAC system design and maintenance",
           "Roles in nuclear energy research and thermal management",
           "Positions in energy policy and environmental consulting"
+        ],
+        "questions": [
+          {
+            "question": "What is the main principle behind a heat pump?",
+            "options": ["Moves heat from a cold area to a warm area", "Generates electricity", "Increases pressure in a system", "Stores thermal energy"],
+            "answer": "Moves heat from a cold area to a warm area"
+          },
+          {
+            "question": "Which cycle is commonly used in thermal power plants?",
+            "options": ["Brayton Cycle", "Otto Cycle", "Rankine Cycle", "Carnot Cycle"],
+            "answer": "Rankine Cycle"
+          },
+          {
+            "question": "What is the primary fuel used in nuclear power plants?",
+            "options": ["Coal", "Natural gas", "Uranium", "Hydrogen"],
+            "answer": "Uranium"
+          },
+          {
+            "question": "What is the primary function of a boiler in a power plant?",
+            "options": ["Generate steam", "Burn fuel for heat", "Condense steam into water", "Store thermal energy"],
+            "answer": "Burn fuel for heat"
+          },
+          {
+            "question": "Which renewable energy source relies on the Earth's internal heat?",
+            "options": ["Solar", "Wind", "Geothermal", "Hydropower"],
+            "answer": "Geothermal"
+          },
+          {
+            "question": "What is cogeneration in energy systems?",
+            "options": ["Simultaneous production of electricity and heat", "Generation of power from solar energy", "Storage of excess electricity", "Distribution of power over long distances"],
+            "answer": "Simultaneous production of electricity and heat"
+          },
+          {
+            "question": "What is the efficiency of a thermal system typically measured by?",
+            "options": ["Heat rate", "Thermal efficiency", "Power output", "All of the above"],
+            "answer": "All of the above"
+          },
+          {
+            "question": "What does the First Law of Thermodynamics state?",
+            "options": ["Energy cannot be created or destroyed", "Energy increases with temperature", "Energy decreases over time", "None of the above"],
+            "answer": "Energy cannot be created or destroyed"
+          },
+          {
+            "question": "What is the major advantage of wind energy?",
+            "options": ["It is renewable", "It produces no emissions", "It is inexpensive", "All of the above"],
+            "answer": "All of the above"
+          },
+          {
+            "question": "What is the role of a turbine in a thermal power plant?",
+            "options": ["To convert heat energy into mechanical energy", "To generate electricity", "To store steam", "To regulate pressure"],
+            "answer": "To convert heat energy into mechanical energy"
+          }
         ]
       }
+      
     ]
   },
   {

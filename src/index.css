@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playwrite+DE+Grund:wght@100..400&display=swap');
 
 /* * {
     outline: 1px solid red;
@@ -9,3 +10,6 @@ body {
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+

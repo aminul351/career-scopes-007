@@ -18,6 +18,7 @@ import SubCatDetails from './pages/Categories/SubCatDetails';
 import AuthProvider from './provider/AuthProvider';
 import PrivateRoute from './PrivateRoute/PrivateRoute';
 import AboutUs from './pages/AboutUs/AboutUs';
+import { Toaster } from 'react-hot-toast';
 
 
 const router = createBrowserRouter([
@@ -57,7 +58,7 @@ const router = createBrowserRouter([
         path: '/categories/:id',
         element: <PrivateRoute><CatDetails /></PrivateRoute>,
         loader: async ({ params }) => {
-          const response = await fetch('/simple.json'); // Fetch the whole JSON file
+          const response = await fetch('/newSimple.json'); // Fetch the whole JSON file
           const data = await response.json();
           return data.find(category => category.id === params.id); // Find the matching category
         }
@@ -66,7 +67,7 @@ const router = createBrowserRouter([
         path: '/categories/:id/:subId',
         element: <SubCatDetails />,
         loader: async ({ params }) => {
-          const response = await fetch('/simple.json');
+          const response = await fetch('/newSimple.json');
           const data = await response.json();
           const category = data.find(cat => cat.id === params.id);
           return category ? category.sub_cat.find(sub => sub.id === params.subId) : null
@@ -92,6 +93,7 @@ const router = createBrowserRouter([
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <AuthProvider>
+      <Toaster/>
     <RouterProvider router={router} />
     </AuthProvider>
   </StrictMode>,

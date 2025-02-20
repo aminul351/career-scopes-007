@@ -8,19 +8,17 @@ const Category = ({ item }) => {
       
       <Link to={`/categories/${id}`}>
 
-      <div className=" bg-base-100 shadow-xl">
+      <div className=" bg-base-100 shadow-md transition-transform transform hover:-translate-y-2 hover:shadow-xl duration-300">
         <figure>
           <img className='w-full h-[300px]'
             src={image}
             alt="Shoes" />
         </figure>
-        <div className="card-body">
-          <h2 className="text-3xl font-bold">{title}</h2>
+        <div className="card-body shadow-xl rounded-xl ">
+          <h2 className="text-3xl font-textStyle font-bold">{title}</h2>
           <p className='className="text-xl font-semibold"'>{subtitle}</p>
-          <div className="card-actions justify-end">
-            {/* <Link className='' to={`/categories/${id}`}>  <button className="bg-[#00bcf1] px-4 py-2 text-lg rounded-3xl"
-            >
-              See More</button></Link> */}
+          <div className=" ">
+              <p  className="flex justify-center text-[#00bcf1] text-lg mt-2 ">See More →</p>
           </div>
         </div>
       </div>

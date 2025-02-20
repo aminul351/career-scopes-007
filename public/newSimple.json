@@ -1,0 +1,1710 @@
+[
+    {
+      "id": "CSE",
+      "title": "Computer Science & Engineering",
+      "subtitle": "Explore the world of Computer Science & Engineering—software development, AI, cybersecurity, and more. Get career insights, research opportunities, and expert guidance to stay ahead in tech!",
+      "image": "https://i.ibb.co.com/rfxcXh75/cse-banner.jpg",
+      "apply_link": "https://www.linkedin.com/jobs/search/?currentJobId=4145828101&geoId=92000000&keywords=software%20engineer&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&originalSubdomain=bd&refresh=true",
+      "monthly_salary": "40,000 – 150,000",
+      "sub_cat": [
+        {
+          "id": "software",
+          "name": "Software Engineering",
+          "description": "Involves the process of designing, developing, testing, and maintaining software applications that meet user needs, ensuring reliability, scalability, and performance.",
+          "image": "https://i.ibb.co.com/rGVGjp7M/software.jpg",
+          "apply_link": "",
+          "monthly_salary": "40,000 – 120,000",
+          "roadmap": [
+            "Bachelor's in Computer Science or Software Engineering",
+            "Internships in software development companies",
+            "Master’s in Software Engineering or AI",
+            "Certifications in Agile, DevOps, or Cloud Computing",
+            "Research in AI-driven software development"
+          ],
+          "qualification": [
+            "Bachelor's in Computer Science or related field",
+            "Proficiency in programming languages (Python, Java, C++)",
+            "Knowledge of data structures and algorithms",
+            "Experience with software development frameworks",
+            "Understanding of software testing and DevOps practices"
+          ],
+          "related_videos": [
+            {
+              "title": "What Do Software Engineers Actually Do? (It’s Not What You Think)",
+              "img": "https://i.ibb.co.com/3HDGjPp/soft-yt-video.png",
+              "url": "https://www.youtube.com/watch?v=HDXpGgieFDg&t=488s"
+            },
+            {
+              "title": "Software Development Life Cycle Explained",
+              "img": "https://i.ibb.co.com/8L68BnYv/image.png",
+              "url": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2"
+            }
+          ],
+          "related_blogs": [
+            {
+              "title": "The most insightful stories about Software Engineering",
+              "img": "https://i.ibb.co.com/Q7DsdGyR/soft-blog.png",
+              "url": "https://medium.com/tag/software-engineering"
+            },
+            {
+              "title": "Software Engineering Trends",
+              "img": "https://i.ibb.co.com/cKvQTjMw/soft-blog2.jpg",
+              "url": "https://medium.com/@hp.huang"
+            }
+          ],
+          "hands_on_projects_and_research": [
+            "Developing a full-stack web application",
+            "Creating a mobile app with Flutter or React Native",
+            "Building a microservices-based architecture",
+            "Implementing CI/CD pipelines with Jenkins or GitHub Actions",
+            "Developing AI-driven code review tools"
+          ],
+          "internship_and_job_market_insight": [
+            "Internships at software firms and startups",
+            "High demand for full-stack developers",
+            "Opportunities in cloud computing and DevOps",
+            "Roles in software quality assurance and automation",
+            "Growing need for AI and machine learning engineers"
+          ],
+          "related_organizations": [
+            {
+              "Name": "Google",
+              "Full_Name": "Google LLC",
+              "Sector": "Technology",
+              "Website": "https://www.google.com",
+              "Image": "https://i.ibb.co.com/35zcNBdB/gogle.png",
+              "Vacancy_Job": "https://careers.google.com/"
+            },
+            {
+              "Name": "Microsoft",
+              "Full_Name": "Microsoft Corporation",
+              "Sector": "Technology",
+              "Website": "https://www.microsoft.com",
+              "Image": "https://i.ibb.co.com/q3P0bVJV/microsoft.png",
+              "Vacancy_Job": "https://careers.microsoft.com/"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What is Software Engineering?",
+              "options": [
+                "A discipline for designing and developing software applications",
+                "A hardware maintenance process",
+                "A method for network security",
+                "A type of database management system"
+              ],
+              "answer": "A discipline for designing and developing software applications"
+            },
+            {
+              "question": "Which of the following is a Software Development Life Cycle (SDLC) model?",
+              "options": ["Waterfall", "Agile", "V-Model", "All of the above"],
+              "answer": "All of the above"
+            },
+            {
+              "question": "What is the main goal of software testing?",
+              "options": [
+                "To find bugs and ensure quality",
+                "To increase the speed of coding",
+                "To reduce the development cost",
+                "To improve the user interface"
+              ],
+              "answer": "To find bugs and ensure quality"
+            },
+            {
+              "question": "What is version control in software engineering?",
+              "options": [
+                "A system that records changes to files",
+                "A process for optimizing code performance",
+                "A technique for debugging software",
+                "A method to improve software security"
+              ],
+              "answer": "A system that records changes to files"
+            },
+            {
+              "question": "Which language is commonly used for software development?",
+              "options": ["Python", "Java", "C++", "All of the above"],
+              "answer": "All of the above"
+            },
+            {
+              "question": "What does 'Agile' software development emphasize?",
+              "options": [
+                "Iterative development and collaboration",
+                "Strict documentation and fixed requirements",
+                "Waterfall methodology",
+                "Long development cycles"
+              ],
+              "answer": "Iterative development and collaboration"
+            },
+            {
+              "question": "Which of these is a non-functional requirement?",
+              "options": ["Performance", "Security", "Usability", "All of the above"],
+              "answer": "All of the above"
+            },
+            {
+              "question": "What is refactoring in software engineering?",
+              "options": [
+                "Improving code structure without changing functionality",
+                "Adding new features to software",
+                "Fixing bugs in a program",
+                "Optimizing database queries"
+              ],
+              "answer": "Improving code structure without changing functionality"
+            },
+            {
+              "question": "What is the primary purpose of software design patterns?",
+              "options": [
+                "To provide reusable solutions to common problems",
+                "To make software run faster",
+                "To reduce the number of programmers needed",
+                "To create more complex code structures"
+              ],
+              "answer": "To provide reusable solutions to common problems"
+            },
+            {
+              "question": "What is DevOps in software engineering?",
+              "options": [
+                "A practice that combines software development and IT operations",
+                "A database management system",
+                "A programming language",
+                "A network security framework"
+              ],
+              "answer": "A practice that combines software development and IT operations"
+            }
+          ]
+        },
+        {
+          "id": "ai_ml",
+          "name": "Artificial Intelligence & Machine Learning",
+          "description": "Explores the creation of intelligent systems that can learn from data, make decisions, and improve.",
+          "image": "https://i.ibb.co.com/67s79b8S/ai-ml.jpg",
+          "apply_link": "",
+          "monthly_salary": "50,000 – 150,000",
+          "roadmap": [
+            "Bachelor’s in Computer Science with AI/ML focus",
+            "Internships in AI research labs or tech companies",
+            "Master’s in Artificial Intelligence or Data Science",
+            "Certifications in TensorFlow, PyTorch, or NLP",
+            "Research in deep learning and generative AI"
+          ],
+          "qualification": [
+            "- Bachelor’s in CSE, AI, or Data Science <br>",
+            "- Proficiency in Python, R, and ML frameworks",
+            "- Understanding of neural networks and deep learning",
+            "- Experience with cloud-based AI platforms",
+            "- Ability to process and analyze large datasets"
+          ],
+          "related_videos": [
+            {
+              "title": "Machine Learning Crash Course by Google",
+              "url": "https://developers.google.com/machine-learning/crash-course"
+            },
+            {
+              "title": "Introduction to Neural Networks",
+              "url": "https://www.youtube.com/watch?v=aircAruvnKk"
+            }
+          ],
+          "related_blogs": [
+            {
+              "title": "AI & ML Research Blogs",
+              "url": "https://www.analyticsvidhya.com/blog/"
+            },
+            {
+              "title": "DeepMind AI Blog",
+              "url": "https://www.deepmind.com/blog"
+            }
+          ],
+          "hands_on_projects_and_research": [
+            "Building an image classification model using CNN",
+            "Developing a chatbot using NLP",
+            "Creating a recommendation system",
+            "Implementing AI for medical diagnosis",
+            "Researching AI ethics and fairness"
+          ],
+          "internship_and_job_market_insight": [
+            "Internships at AI startups and research institutes",
+            "High demand for AI engineers in healthcare and finance",
+            "Opportunities in autonomous systems and robotics",
+            "Roles in AI model optimization and deployment",
+            "Growing field of AI ethics and responsible AI"
+          ],
+          "related_organizations": [
+            {
+              "Name": "OpenAI",
+              "Full_Name": "OpenAI LP",
+              "Sector": "Artificial Intelligence",
+              "Website": "https://www.openai.com",
+              "Image": "https://i.ibb.co.com/0jQ7Z9J/openai-logo.png",
+              "Vacancy_Job": "https://openai.com/careers"
+            },
+            {
+              "Name": "DeepMind",
+              "Full_Name": "DeepMind Technologies",
+              "Sector": "Artificial Intelligence",
+              "Website": "https://www.deepmind.com",
+              "Image": "https://i.ibb.co.com/0jQ7Z9J/deepmind-logo.png",
+              "Vacancy_Job": "https://deepmind.com/careers"
+            }
+          ],
+          "questions": [
+            {
+              "question": "What is Artificial Intelligence (AI)?",
+              "options": [
+                "A field of computer science focused on creating smart machines",
+                "A type of computer hardware",
+                "A programming language",
+                "A database management system"
+              ],
+              "answer": "A field of computer science focused on creating smart machines"
+            },
+            {
+              "question": "What is Machine Learning (ML)?",
+              "options": [
+                "A subset of AI that enables systems to learn from data",
+                "A method to manually code intelligence",
+                "A type of computer virus",
+                "A cloud computing service"
+              ],
+              "answer": "A subset of AI that enables systems to learn from data"
+            },
+            {
+              "question": "Which of the following is a type of Machine Learning?",
+              "options": ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning", "All of the above"],
+              "answer": "All of the above"
+            },
+            {
+              "question": "What is a neural network in AI?",
+              "options": [
+                "A computing system inspired by the human brain",
+                "A type of computer network",
+                "A programming language",
+                "A type of robotic system"
+              ],
+              "answer": "A computing system inspired by the human brain"
+            },
+            {
+              "question": "Which algorithm is commonly used for classification tasks?",
+              "options": ["Decision Tree", "K-Means Clustering", "Apriori Algorithm", "Dijkstra's Algorithm"],
+              "answer": "Decision Tree"
+            },
+            {
+              "question": "What is the main goal of Natural Language Processing (NLP)?",
+              "options": [
+                "To enable machines to understand and process human language",
+                "To translate between programming languages",
+                "To optimize database performance",
+                "To improve computer graphics rendering"
+              ],
+              "answer": "To enable machines to understand and process human language"
+            },
+            {
+              "question": "What is the purpose of reinforcement learning?",
+              "options": [
+                "To train an agent using rewards and punishments",
+                "To preprocess datasets",
+                "To encrypt sensitive data",
+                "To visualize large datasets"
+              ],
+              "answer": "To train an agent using rewards and punishments"
+            },
+            {
+              "question": "Which of the following is an application of AI?",
+              "options": ["Autonomous Vehicles", "Medical Diagnosis", "Fraud Detection", "All of the above"],
+              "answer": "All of the above"
+            },
+            {
+              "question": "What is a common evaluation metric for classification models?",
+              "options": ["Accuracy", "Mean Squared Error", "Reinforcement Score", "Packet Loss"],
+              "answer": "Accuracy"
+            },
+            {
+              "question": "Which AI technique is used for generating images and text?",
+              "options": ["Generative Adversarial Networks (GANs)", "Decision Trees", "Support Vector Machines", "K-Nearest Neighbors"],
+              "answer": "Generative Adversarial Networks (GANs)"
+            }
+          ]
+        },
+        {
+          "id": "cybersecurity",
+          "name": "Cybersecurity",
+          "description": " Focuses on safeguarding computer systems, networks, and data from unauthorized access, cyberattacks, and potential threats through encryption, firewalls.",
+          "image": "https://i.ibb.co.com/YFD0VN7K/cyber.jpg",
+          "apply_link": "",
+          "monthly_salary": "45,000 – 140,000",
+          "roadmap": [
+            "Bachelor’s in Computer Science or Cybersecurity",
+            "Internships in cybersecurity firms or IT security teams",
+            "Certifications in CEH, CISSP, or CompTIA Security+",
+            "Master’s in Cybersecurity or Information Security",
+            "Research in cryptography and ethical hacking"
+          ],
+          "qualification": [
+            "Bachelor’s in CSE, IT Security, or related field",
+            "Knowledge of network security and cryptography",
+            "Familiarity with penetration testing tools",
+            "Understanding of ethical hacking techniques",
+            "Proficiency in security compliance and regulations"
+          ],
+          "related_videos": [
+            {
+              "title": "Introduction to Cybersecurity",
+              "url": "https://www.youtube.com/watch?v=ke_pTUSRaYg"
+            },
+            {
+              "title": "Ethical Hacking Full Course",
+              "url": "https://www.youtube.com/watch?v=fNzpcB7ODxQ"
+            }
+          ],
+          "related_blogs": [
+            {
+              "title": "Top Cybersecurity Blogs",
+              "url": "https://securityintelligence.com/"
+            },
+            {
+              "title": "Cybersecurity News & Insights",
+              "url": "https://www.darkreading.com/"
+            }
+          ],
+          "hands_on_projects_and_research": [
+            "Setting up a home penetration testing lab",
+            "Developing a secure authentication system",
+            "Implementing encryption algorithms",
+            "Building an intrusion detection system",
+            "Researching AI-based cybersecurity solutions"
+          ],
+          "internship_and_job_market_insight": [
+            "Internships with cybersecurity firms and IT security teams",
+            "High demand for ethical hackers and penetration testers",
+            "Opportunities in cloud security and blockchain security",
+            "Roles in cybersecurity consulting and risk assessment",
+            "Growing field of AI-powered security solutions"
+          ],
+          "related_organizations": [
+            {
+              "Name": "Palo Alto Networks",
+              "Full_Name": "Palo Alto Networks, Inc.",
+              "Sector": "Cybersecurity",
+              "Website": "https://www.paloaltonetworks.com",
+              "Image": "https://i.ibb.co.com/0jQ7Z9J/palo-alto-logo.png",
+              "Vacancy_Job": "https://jobs.paloaltonetworks.com/"
+            },
+            {
+              "Name": "Cisco",
+              "Full_Name": "Cisco Systems, Inc.",
+              "Sector": "Cybersecurity",
+              "Website": "https://www.cisco.com",
+              "Image": "https://i.ibb.co.com/0jQ7Z9J/cisco-logo.png",
+              "Vacancy_Job": "https://jobs.cisco.com/"
+            }
+          ],
+          "questions": [
+            {
+              "questions": [
+                {
+                  "question": "What is Cybersecurity?",
+                  "options": [
+                    "The practice of protecting systems, networks, and programs from cyber threats",
+                    "A type of antivirus software",
+                    "A programming language for security applications",
+                    "A method of encrypting emails"
+                  ],
+                  "answer": "The practice of protecting systems, networks, and programs from cyber threats"
+                },
+                {
+                  "question": "Which of the following is a common cybersecurity threat?",
+                  "options": ["Phishing", "DDoS Attack", "Malware", "All of the above"],
+                  "answer": "All of the above"
+                },
+                {
+                  "question": "What does a firewall do in cybersecurity?",
+                  "options": [
+                    "Monitors and controls incoming and outgoing network traffic",
+                    "Scans for viruses in email attachments",
+                    "Encrypts data for secure transmission",
+                    "Detects hardware failures in computers"
+                  ],
+                  "answer": "Monitors and controls incoming and outgoing network traffic"
+                },
+                {
+                  "question": "What is multi-factor authentication (MFA)?",
+                  "options": [
+                    "A security system that requires more than one method of authentication",
+                    "A method of encrypting passwords",
+                    "A process to store passwords securely",
+                    "A technique to bypass security checks"
+                  ],
+                  "answer": "A security system that requires more than one method of authentication"
+                },
+                {
+                  "question": "Which cybersecurity principle ensures that data is not altered or tampered with?",
+                  "options": ["Confidentiality", "Integrity", "Availability", "Encryption"],
+                  "answer": "Integrity"
+                },
+                {
+                  "question": "What is ransomware?",
+                  "options": [
+                    "A type of malware that locks or encrypts files and demands payment",
+                    "A cybersecurity tool for detecting threats",
+                    "A legal framework for cybercrime prevention",
+                    "A network security protocol"
+                  ],
+                  "answer": "A type of malware that locks or encrypts files and demands payment"
+                },
+                {
+                  "question": "Which of the following is an example of a strong password?",
+                  "options": [
+                    "123456",
+                    "password",
+                    "P@ssw0rd!2023",
+                    "qwerty"
+                  ],
+                  "answer": "P@ssw0rd!2023"
+                },
+                {
+                  "question": "What is social engineering in cybersecurity?",
+                  "options": [
+                    "Manipulating people into revealing confidential information",
+                    "Developing social media security protocols",
+                    "Using AI for network security",
+                    "A method of ethical hacking"
+                  ],
+                  "answer": "Manipulating people into revealing confidential information"
+                },
+                {
+                  "question": "Which of the following is a cybersecurity best practice?",
+                  "options": ["Using unique passwords for each account", "Keeping software up to date", "Avoiding suspicious emails", "All of the above"],
+                  "answer": "All of the above"
+                },
+                {
+                  "question": "What is ethical hacking?",
+                  "options": [
+                    "Legally testing a system for vulnerabilities to improve security",
+                    "Hacking systems for personal gain",
+                    "Creating malware for cybersecurity research",
+                    "A method of cybercrime prevention"
+                  ],
+                  "answer": "Legally testing a system for vulnerabilities to improve security"
+                }
+          ]
+        }
+      
+      ]
+    }]}
+    ,
+
+    {
+        "id": "EEE",
+        "title": "Electrical & Electronics Engineering",
+        "subtitle": "Dive into Electrical & Electronics Engineering—power systems, communication, robotics, and beyond. Discover career paths, industry trends, and mentorship from experts in the field!",
+        "image": "https://i.ibb.co.com/XkS3B2PY/eee-main-banner.jpg",
+        "apply_link": "",
+        "monthly_salary": "",
+        "sub_cat": [
+          {
+            "id": "power",
+            "name": "Power Engineering",
+            "description": "Focuses on the generation, transmission, and distribution of electrical power.",
+            "image": "https://i.ibb.co.com/Fk5GjMkW/power-system.jpg",
+            "apply_link": "https://www.linkedin.com/jobs/search/?currentJobId=4144174905&geoId=92000000&keywords=power%20engineer&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&originalSubdomain=bd&refresh=true",
+            "monthly_salary": "35,000 – 120,000",
+            "roadmap": [
+              "Bachelor's in Electrical Engineering",
+              "Internships in Power Plants / Grid Stations",
+              "Master's Specialization in Power Systems",
+              "Industry Certifications (PE, PMP, etc.)",
+              "Research in Renewable Energy / Smart Grids"
+            ],
+            "Power_Organizations": [
+              {
+                "Name": "PGCB",
+                "Full_Name": "Power Grid Company of Bangladesh Ltd.",
+                "Sector": "Transmission",
+                "Website": "http://www.pgcb.gov.bd",
+                "Image": "https://i.ibb.co.com/qq9D1XC/pgcb-logo.png",
+                "Vacancy_Job": "http://www.pgcb.gov.bd/career"
+              },
+              {
+                "Name": "BPDB",
+                "Full_Name": "Bangladesh Power Development Board",
+                "Sector": "Generation & Distribution",
+                "Website": "http://www.bpdb.gov.bd",
+                "Image": "http://www.bpdb.gov.bd/logo.png",
+                "Vacancy_Job": "http://www.bpdb.gov.bd/career"
+              },
+              {
+                "Name": "DPDC",
+                "Full_Name": "Dhaka Power Distribution Company Ltd.",
+                "Sector": "Distribution",
+                "Website": "http://www.dpdc.org.bd",
+                "Image": "http://www.dpdc.org.bd/logo.png",
+                "Vacancy_Job": "http://www.dpdc.org.bd/career"
+              },
+              {
+                "Name": "DESCO",
+                "Full_Name": "Dhaka Electric Supply Company Ltd.",
+                "Sector": "Distribution",
+                "Website": "http://www.desco.org.bd",
+                "Image": "http://www.desco.org.bd/logo.png",
+                "Vacancy_Job": "http://www.desco.org.bd/career"
+              },
+              {
+                "Name": "BREB",
+                "Full_Name": "Bangladesh Rural Electrification Board",
+                "Sector": "Distribution",
+                "Website": "http://www.reb.gov.bd",
+                "Image": "http://www.reb.gov.bd/logo.png",
+                "Vacancy_Job": "http://www.reb.gov.bd/career"
+              },
+              {
+                "Name": "NWPGCL",
+                "Full_Name": "North-West Power Generation Company Ltd.",
+                "Sector": "Generation",
+                "Website": "http://www.nwpgcl.org.bd",
+                "Image": "http://www.nwpgcl.org.bd/logo.png",
+                "Vacancy_Job": "http://www.nwpgcl.org.bd/career"
+              },
+              {
+                "Name": "EGCB",
+                "Full_Name": "Electricity Generation Company of Bangladesh Ltd.",
+                "Sector": "Generation",
+                "Website": "http://www.egcb.com.bd",
+                "Image": "http://www.egcb.com.bd/logo.png",
+                "Vacancy_Job": "http://www.egcb.com.bd/career"
+              },
+              {
+                "Name": "WZPDCL",
+                "Full_Name": "West Zone Power Distribution Company Ltd.",
+                "Sector": "Distribution",
+                "Website": "http://www.wzpdcl.gov.bd",
+                "Image": "http://www.wzpdcl.gov.bd/logo.png",
+                "Vacancy_Job": "http://www.wzpdcl.gov.bd/career"
+              }
+            ],
+            "qualification": [
+              "Bachelor's in Electrical or Power Engineering",
+              "Knowledge of power systems and electrical machinery",
+              "Proficiency in simulation software (e.g., MATLAB, PSS/E)",
+              "Strong analytical and problem-solving skills",
+              "Understanding of safety standards and regulations"
+            ],
+            "related_videos": [
+              {
+                "title": "Power system engineering - YouTube",
+                "img": "https://i.ibb.co.com/9kTGLjqW/Screenshot-2025-02-19-184814.png",
+                "url": "https://www.youtube.com/watch?v=Zg7k95FArtY"
+              },
+              {
+                "title": "Career Tips for Electrical Engineers in Power Systems",
+                "img": "https://i.ibb.co.com/Z1VQDwch/image.png",
+                "url": "https://www.youtube.com/watch?v=H3T2N8u45m8"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "Latest Power Engineering Articles",
+                "img": "https://i.ibb.co.com/Gf6p6Tr0/power-blog.jpg",
+                "url": "https://eepower.com/latest/"
+              },
+              {
+                "title": "Power Industry and Energy News",
+                "img": "https://i.ibb.co.com/Kz7ft1TM/hi.jpg",
+                "url": "https://www.power-eng.com/"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Design and analysis of renewable energy systems (e.g., solar, wind)",
+              "Development of smart grid technologies",
+              "Power system stability and control studies",
+              "Energy storage solutions and battery management systems",
+              "Implementation of power electronics in modern power systems"
+            ],
+            "internship_and_job_market_insight": [
+              "Internships at utility companies, renewable energy firms, and power equipment manufacturers",
+              "Growing demand for engineers skilled in renewable energy integration",
+              "Opportunities in smart grid technology development",
+              "Roles in power system planning and reliability assessment",
+              "Positions in regulatory bodies overseeing energy policies"
+            ],
+            "questions": [
+              {
+                "question": "What is the primary function of a circuit breaker in a power system?",
+                "options": ["Regulate voltage", "Measure current", "Protect the system from overloads and short circuits", "Store electrical energy"],
+                "answer": "Protect the system from overloads and short circuits"
+              },
+              {
+                "question": "Which type of power plant uses the Rankine cycle?",
+                "options": ["Hydroelectric", "Nuclear", "Thermal", "Solar"],
+                "answer": "Thermal"
+              },
+              {
+                "question": "What is the main purpose of a transformer?",
+                "options": ["Convert AC to DC", "Step up or step down voltage levels", "Store electrical energy", "Measure electrical resistance"],
+                "answer": "Step up or step down voltage levels"
+              },
+              {
+                "question": "Which component is used to improve the power factor in an electrical system?",
+                "options": ["Capacitor", "Inductor", "Resistor", "Transformer"],
+                "answer": "Capacitor"
+              },
+              {
+                "question": "What is the typical frequency of AC power in most countries?",
+                "options": ["50 Hz", "60 Hz", "Both 50 Hz and 60 Hz", "120 Hz"],
+                "answer": "Both 50 Hz and 60 Hz"
+              },
+              {
+                "question": "Which renewable energy source is commonly used in power engineering?",
+                "options": ["Wind", "Solar", "Hydropower", "All of the above"],
+                "answer": "All of the above"
+              },
+              {
+                "question": "What does an alternator do in a power plant?",
+                "options": ["Convert mechanical energy into electrical energy", "Store electrical energy", "Convert AC to DC", "Regulate voltage"],
+                "answer": "Convert mechanical energy into electrical energy"
+              },
+              {
+                "question": "Which of the following is a major advantage of HVDC transmission over HVAC transmission?",
+                "options": ["Lower transmission losses", "Easier voltage transformation", "Lower cost of equipment", "Higher frequency operation"],
+                "answer": "Lower transmission losses"
+              },
+              {
+                "question": "What is the purpose of grounding in an electrical system?",
+                "options": ["Prevent electric shock", "Protect equipment from surges", "Ensure safety and stability", "All of the above"],
+                "answer": "All of the above"
+              },
+              {
+                "question": "What is the unit of electrical power?",
+                "options": ["Watt", "Volt", "Ohm", "Ampere"],
+                "answer": "Watt"
+              }
+            ]
+          },
+          {
+            "id": "electronics",
+            "name": "Electronics Engineering",
+            "description": "Deals with the design and development of electronic circuits, devices, and systems.",
+            "image": "https://i.ibb.co.com/8LjGNhVf/ckt.jpg",
+            "apply_link": "",
+            "monthly_salary": "30,000 – 100,000",
+            "roadmap": [
+              "Bachelor's in Electronics Engineering",
+              "Internships in electronics design firms",
+              "Master's in Microelectronics or Embedded Systems",
+              "Certifications in VLSI Design or Embedded Systems",
+              "Research in Nanoelectronics or IoT Devices"
+            ],
+            "qualification": [
+              "Bachelor's in Electronics Engineering or related field",
+              "Proficiency in circuit design and simulation tools",
+              "Knowledge of semiconductor devices",
+              "Skills in programming and embedded systems",
+              "Ability to troubleshoot and repair electronic systems"
+            ],
+            "related_videos": [
+              {
+                "title": "Power Electronics Videos | CUSP",
+                "url": "https://cusp.umn.edu/power-electronics/power-electronics"
+              },
+              {
+                "title": "Introduction to Electronics Engineering",
+                "url": "https://www.youtube.com/watch?v=abc123"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "EEPower - Electrical Power Engineering Technical Articles",
+                "url": "https://eepower.com/"
+              },
+              {
+                "title": "Electronics Engineering Trends",
+                "url": "https://www.electronicsforu.com/"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Designing wearable health monitoring devices",
+              "Developing IoT-based home automation systems",
+              "Creating energy-efficient power supplies",
+              "Research in flexible electronics and displays",
+              "Building robotics and automation controllers"
+            ],
+            "internship_and_job_market_insight": [
+              "Internships in consumer electronics companies",
+              "Demand for embedded systems engineers in automotive industries",
+              "Opportunities in semiconductor manufacturing firms",
+              "Roles in research and development of new electronic materials",
+              "Positions in telecommunications equipment design"
+            ],
+            "questions": [
+              {
+                "question": "What is the primary function of a diode in an electronic circuit?",
+                "options": ["Amplify signals", "Store charge", "Allow current to flow in one direction", "Generate voltage"],
+                "answer": "Allow current to flow in one direction"
+              },
+              {
+                "question": "Which semiconductor material is most commonly used in electronic devices?",
+                "options": ["Silicon", "Germanium", "Gallium Arsenide", "Copper"],
+                "answer": "Silicon"
+              },
+              {
+                "question": "What is the function of a transistor in an electronic circuit?",
+                "options": ["Store electrical energy", "Act as a switch or amplifier", "Convert AC to DC", "Measure resistance"],
+                "answer": "Act as a switch or amplifier"
+              },
+              {
+                "question": "Which type of capacitor is commonly used for high-frequency applications?",
+                "options": ["Electrolytic capacitor", "Ceramic capacitor", "Tantalum capacitor", "Paper capacitor"],
+                "answer": "Ceramic capacitor"
+              },
+              {
+                "question": "What does an operational amplifier (op-amp) do?",
+                "options": ["Processes analog signals", "Converts digital to analog signals", "Stores electrical charge", "Regulates voltage"],
+                "answer": "Processes analog signals"
+              },
+              {
+                "question": "Which logic gate outputs HIGH only when both inputs are HIGH?",
+                "options": ["AND", "OR", "XOR", "NAND"],
+                "answer": "AND"
+              },
+              {
+                "question": "What is the primary purpose of a microcontroller?",
+                "options": ["Control embedded systems", "Store large amounts of data", "Transmit radio signals", "Convert analog signals to digital"],
+                "answer": "Control embedded systems"
+              },
+              {
+                "question": "What is the significance of an LED in an electronic circuit?",
+                "options": ["Emit light when current flows through it", "Store electrical energy", "Regulate voltage", "Act as a switch"],
+                "answer": "Emit light when current flows through it"
+              },
+              {
+                "question": "Which electronic component is used to filter out unwanted frequencies?",
+                "options": ["Resistor", "Capacitor", "Inductor", "Filter circuit"],
+                "answer": "Filter circuit"
+              },
+              {
+                "question": "What is the primary function of a voltage regulator?",
+                "options": ["Maintain a constant output voltage", "Convert AC to DC", "Increase current flow", "Measure electrical resistance"],
+                "answer": "Maintain a constant output voltage"
+              }
+            ]
+          },
+          {
+            "id": "communications",
+            "name": "Communication Systems",
+            "description": "Encompasses the study of systems and networks used for transmission.",
+            "image": "https://i.ibb.co.com/dsFp4QTL/communication.jpg",
+            "apply_link": "",
+            "monthly_salary": "35,000 – 110,000",
+            "roadmap": [
+              "Bachelor's in Communication Engineering",
+              "Internships with telecom service providers",
+              "Master's in Signal Processing or Network Engineering",
+              "Certifications in Network Security or Wireless Communications",
+              "Research in 5G/6G Technologies or Optical Communications"
+            ],
+            "qualification": [
+              "Bachelor's in Communication or Telecommunication Engineering",
+              "Understanding of signal processing and modulation techniques",
+              "Knowledge of network protocols and architectures",
+              "Skills in using communication system simulation tools",
+              "Familiarity with wireless communication standards"
+            ],
+            "related_videos": [
+              {
+                "title": "Introduction to Communication Systems",
+                "url": "https://www.youtube.com/watch?v=xyz456"
+              },
+              {
+                "title": "5G Technology Explained",
+                "url": "https://www.youtube.com/watch?v=def789"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "Communication Engineering Trends",
+                "url": "https://www.comsoc.org/"
+              },
+              {
+                "title": "5G and Beyond: The Future of Communication",
+                "url": "https://www.ericsson.com/en"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Developing software-defined radio systems",
+              "Designing and optimizing wireless sensor networks",
+              "Implementing error detection and correction algorithms",
+              "Research in satellite communication technologies",
+              "Creating secure communication protocols for IoT devices"
+            ],
+            "internship_and_job_market_insight": [
+              "Internships with mobile network operators",
+              "Growing need for network security specialists",
+              "Opportunities in designing communication protocols for IoT",
+              "Roles in developing next-generation wireless technologies",
+              "Positions in satellite and space communication firms"
+            ],
+            "questions": [
+              {
+                "question": "What is the primary purpose of a communication system?",
+                "options": ["To store data", "To transmit information from one place to another", "To process signals", "To encrypt data"],
+                "answer": "To transmit information from one place to another"
+              },
+              {
+                "question": "Which type of modulation is used in AM radio broadcasting?",
+                "options": ["Frequency Modulation (FM)", "Amplitude Modulation (AM)", "Phase Modulation (PM)", "Pulse Code Modulation (PCM)"],
+                "answer": "Amplitude Modulation (AM)"
+              },
+              {
+                "question": "What is the main advantage of digital communication over analog communication?",
+                "options": ["Higher noise immunity", "Lower bandwidth requirement", "Easier implementation", "Lower cost"],
+                "answer": "Higher noise immunity"
+              },
+              {
+                "question": "Which component is used to amplify weak signals in a communication system?",
+                "options": ["Modulator", "Amplifier", "Antenna", "Filter"],
+                "answer": "Amplifier"
+              },
+              {
+                "question": "What is the function of an antenna in a wireless communication system?",
+                "options": ["Convert electrical signals to electromagnetic waves and vice versa", "Store signals", "Process signals", "Encrypt data"],
+                "answer": "Convert electrical signals to electromagnetic waves and vice versa"
+              },
+              {
+                "question": "Which multiple access technique is commonly used in cellular communication?",
+                "options": ["Time Division Multiple Access (TDMA)", "Frequency Division Multiple Access (FDMA)", "Code Division Multiple Access (CDMA)", "All of the above"],
+                "answer": "All of the above"
+              },
+              {
+                "question": "What is the primary function of a demodulator in a communication system?",
+                "options": ["Combine multiple signals", "Remove noise", "Extract the original information signal from a modulated carrier", "Increase signal strength"],
+                "answer": "Extract the original information signal from a modulated carrier"
+              },
+              {
+                "question": "What does the Shannon Capacity Theorem define?",
+                "options": ["The maximum achievable data rate in a communication channel", "The minimum bandwidth required for transmission", "The optimal antenna size", "The maximum transmission power allowed"],
+                "answer": "The maximum achievable data rate in a communication channel"
+              },
+              {
+                "question": "Which frequency band is commonly used for 5G communication?",
+                "options": ["300 MHz - 1 GHz", "1 GHz - 6 GHz", "24 GHz - 100 GHz", "Both 1 GHz - 6 GHz and 24 GHz - 100 GHz"],
+                "answer": "Both 1 GHz - 6 GHz and 24 GHz - 100 GHz"
+              },
+              {
+                "question": "What is the main purpose of error detection and correction in communication systems?",
+                "options": ["To compress data", "To detect and fix errors in transmitted data", "To increase transmission power", "To optimize modulation techniques"],
+                "answer": "To detect and fix errors in transmitted data"
+              }
+            ]
+          }
+        ]
+      },
+
+
+
+      {
+        "id": "ME",
+        "title": "Mechanical Engineering",
+        "subtitle": "Uncover the future of Mechanical Engineering—automotive, robotics, manufacturing, and energy. Get insights on career growth, innovative projects, and research opportunities. Start your journey today and shape your future with confidence!",
+        "image": "https://i.ibb.co/tw4px7Fk/mech-banner.jpg",
+        "apply_link": "",
+        "monthly_salary": "",
+        "sub_cat": [
+          {
+            "id": "automobile",
+            "name": "Automobile Engineering",
+            "description": "Focuses on designing, manufacturing, and maintaining automotive vehicles.",
+            "image": "https://i.ibb.co/wNqLLjxr/auto.jpg",
+            "apply_link": "https://www.linkedin.com/jobs/search/?currentJobId=4147178172&geoId=92000000&keywords=robotics%20engineer&origin=JOB_SEARCH_PAGE_KEYWORD_AUTOCOMPLETE&originalSubdomain=bd&refresh=true",
+            "monthly_salary": "40,000 – 120,000",
+            "roadmap": [
+              "Bachelor’s in Mechanical or Automobile Engineering",
+              "Internships in automotive companies (e.g., Tesla, BMW, Toyota)",
+              "Master’s in Automotive Engineering or Mechatronics",
+              "Certifications in CAD, EV technology, and Vehicle Dynamics",
+              "Research in Electric Vehicles and Autonomous Cars"
+            ],
+            "qualification": [
+              "Bachelor’s in Mechanical or Automotive Engineering",
+              "Proficiency in CAD software (SolidWorks, CATIA)",
+              "Understanding of vehicle dynamics and aerodynamics",
+              "Knowledge of internal combustion engines and EV technology",
+              "Experience in automotive testing and safety regulations"
+            ],
+            "related_videos": [
+              {
+                "title": "How an Internal Combustion Engine Works",
+                "url": "https://www.youtube.com/watch?v=toVfvRhWbj8"
+              },
+              {
+                "title": "Tesla's Electric Vehicle Technology Explained",
+                "url": "https://www.youtube.com/watch?v=UacYa54JtUg"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "Automobile Engineering News & Trends",
+                "url": "https://www.autoevolution.com/"
+              },
+              {
+                "title": "Top EV Engineering Blogs",
+                "url": "https://insideevs.com/"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Building an electric go-kart",
+              "Designing an autonomous vehicle prototype",
+              "Optimizing aerodynamics for race cars",
+              "Developing battery management systems for EVs",
+              "Researching alternative fuels and hybrid vehicle technology"
+            ],
+            "internship_and_job_market_insight": [
+              "Internships at automotive giants like Tesla, Ford, and Mercedes",
+              "Growing demand for EV engineers and battery specialists",
+              "Opportunities in autonomous vehicle software development",
+              "Roles in vehicle safety testing and crash analysis",
+              "Positions in motorsports engineering and F1 teams"
+            ],
+            "related_organizations": [
+              {
+                "Name": "Tesla",
+                "Full_Name": "Tesla, Inc.",
+                "Sector": "Electric Vehicles",
+                "Website": "https://www.tesla.com/",
+                "Image": "https://i.ibb.co/XYZ1234/tesla-logo.png",
+                "Vacancy_Job": "https://www.tesla.com/careers"
+              },
+              {
+                "Name": "Toyota",
+                "Full_Name": "Toyota Motor Corporation",
+                "Sector": "Automotive",
+                "Website": "https://www.toyota-global.com/",
+                "Image": "https://i.ibb.co/ABC5678/toyota-logo.png",
+                "Vacancy_Job": "https://www.toyota-global.com/careers/"
+              }
+            ],
+            "questions": [
+              {
+                "question": "What is the main function of a differential in an automobile?",
+                "options": ["Transmit power to the wheels", "Allow wheels to rotate at different speeds", "Reduce engine noise", "Improve fuel efficiency"],
+                "answer": "Allow wheels to rotate at different speeds"
+              },
+              {
+                "question": "Which type of engine is most commonly used in modern cars?",
+                "options": ["Two-stroke engine", "Rotary engine", "Four-stroke engine", "Steam engine"],
+                "answer": "Four-stroke engine"
+              },
+              {
+                "question": "What is the purpose of an anti-lock braking system (ABS)?",
+                "options": ["Increase braking distance", "Prevent wheels from locking during braking", "Enhance engine performance", "Reduce fuel consumption"],
+                "answer": "Prevent wheels from locking during braking"
+              },
+              {
+                "question": "Which component is responsible for cooling the engine?",
+                "options": ["Radiator", "Alternator", "Exhaust manifold", "Transmission"],
+                "answer": "Radiator"
+              },
+              {
+                "question": "What type of fuel is commonly used in diesel engines?",
+                "options": ["Petrol", "Kerosene", "Diesel", "Ethanol"],
+                "answer": "Diesel"
+              },
+              {
+                "question": "Which automotive system is responsible for transmitting power from the engine to the wheels?",
+                "options": ["Suspension system", "Braking system", "Transmission system", "Cooling system"],
+                "answer": "Transmission system"
+              },
+              {
+                "question": "What is the purpose of a turbocharger in an engine?",
+                "options": ["Reduce fuel consumption", "Increase engine power by forcing more air into the combustion chamber", "Improve braking efficiency", "Enhance vehicle aerodynamics"],
+                "answer": "Increase engine power by forcing more air into the combustion chamber"
+              },
+              {
+                "question": "Which material is commonly used in modern car bodies to reduce weight while maintaining strength?",
+                "options": ["Iron", "Aluminum", "Lead", "Copper"],
+                "answer": "Aluminum"
+              },
+              {
+                "question": "What is the purpose of the catalytic converter in an automobile?",
+                "options": ["Increase fuel efficiency", "Reduce harmful emissions", "Improve engine cooling", "Enhance vehicle speed"],
+                "answer": "Reduce harmful emissions"
+              },
+              {
+                "question": "Which drivetrain configuration provides power to all four wheels?",
+                "options": ["Front-wheel drive (FWD)", "Rear-wheel drive (RWD)", "All-wheel drive (AWD)", "Two-wheel drive (2WD)"],
+                "answer": "All-wheel drive (AWD)"
+              }
+            ]
+          },
+          {
+            "id": "robotics",
+            "name": "Robotics & Automation",
+            "description": "Explores the design and development of intelligent robotic systems.",
+            "image": "https://i.ibb.co/Jw70CysW/robot.webp",
+            "apply_link": "",
+            "monthly_salary": "50,000 – 150,000",
+            "roadmap": [
+              "Bachelor’s in Mechanical, Mechatronics, or Robotics Engineering",
+              "Internships in industrial automation and robotics firms",
+              "Master’s in Robotics or AI-driven Automation",
+              "Certifications in PLC, ROS, and Industrial IoT",
+              "Research in AI-powered robotics and autonomous systems"
+            ],
+            "qualification": [
+              "Bachelor’s in Mechanical, Mechatronics, or Electrical Engineering",
+              "Knowledge of robotic kinematics and control systems",
+              "Experience in automation tools like PLC and SCADA",
+              "Proficiency in programming (Python, MATLAB, ROS)",
+              "Understanding of AI applications in robotics"
+            ],
+            "related_videos": [
+              {
+                "title": "Introduction to Robotics",
+                "url": "https://www.youtube.com/watch?v=GQ4ym3Dp9Qg"
+              },
+              {
+                "title": "Boston Dynamics: The Future of Robots",
+                "url": "https://www.youtube.com/watch?v=tF4DML7FIWk"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "Robotics & Automation Trends",
+                "url": "https://spectrum.ieee.org/robotics"
+              },
+              {
+                "title": "Industrial Robotics Insights",
+                "url": "https://www.roboticsbusinessreview.com/"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Building a robotic arm for automation",
+              "Developing a self-balancing robot",
+              "Creating a drone with AI-based navigation",
+              "Implementing machine learning in robotic vision",
+              "Researching humanoid robots and soft robotics"
+            ],
+            "internship_and_job_market_insight": [
+              "Internships in robotics startups and industrial automation companies",
+              "High demand for automation engineers in manufacturing",
+              "Opportunities in AI-driven robotics and humanoid development",
+              "Roles in robotic process automation (RPA) for industries",
+              "Positions in aerospace robotics and defense applications"
+            ],
+            "related_organizations": [
+              {
+                "Name": "Boston Dynamics",
+                "Full_Name": "Boston Dynamics, Inc.",
+                "Sector": "Robotics",
+                "Website": "https://www.bostondynamics.com/",
+                "Image": "https://i.ibb.co/XYZ1234/boston-dynamics-logo.png",
+                "Vacancy_Job": "https://www.bostondynamics.com/careers"
+              },
+              {
+                "Name": "ABB Robotics",
+                "Full_Name": "ABB Robotics",
+                "Sector": "Industrial Automation",
+                "Website": "https://new.abb.com/products/robotics",
+                "Image": "https://i.ibb.co/ABC5678/abb-logo.png",
+                "Vacancy_Job": "https://new.abb.com/careers"
+              }
+            ],
+            "questions": [
+              {
+                "question": "What is the primary function of an actuator in a robotic system?",
+                "options": ["Process data", "Provide movement", "Store energy", "Measure distance"],
+                "answer": "Provide movement"
+              },
+              {
+                "question": "Which sensor is commonly used in robotics for obstacle detection?",
+                "options": ["Ultrasonic sensor", "Temperature sensor", "Pressure sensor", "Light sensor"],
+                "answer": "Ultrasonic sensor"
+              },
+              {
+                "question": "What does an industrial robot primarily do?",
+                "options": ["Cook food", "Perform repetitive tasks with precision", "Write software", "Communicate with humans"],
+                "answer": "Perform repetitive tasks with precision"
+              },
+              {
+                "question": "Which type of motor is widely used in robotic arms for precise movement?",
+                "options": ["Stepper motor", "DC motor", "Induction motor", "Turbo motor"],
+                "answer": "Stepper motor"
+              },
+              {
+                "question": "What is the main advantage of automation in manufacturing?",
+                "options": ["Increased production efficiency", "Higher labor costs", "More manual errors", "Lower product quality"],
+                "answer": "Increased production efficiency"
+              },
+              {
+                "question": "Which programming language is commonly used for robotic control?",
+                "options": ["Python", "HTML", "CSS", "Photoshop"],
+                "answer": "Python"
+              },
+              {
+                "question": "What is the purpose of a robotic manipulator?",
+                "options": ["To move the robot to different locations", "To manipulate objects in a controlled manner", "To navigate the robot", "To control the robot’s battery"],
+                "answer": "To manipulate objects in a controlled manner"
+              },
+              {
+                "question": "What does ROS stand for in robotics?",
+                "options": ["Robot Operating System", "Remote Operating System", "Robotic Optimization Software", "Real-time Operating System"],
+                "answer": "Robot Operating System"
+              },
+              {
+                "question": "Which robot is known for its advanced human-like capabilities?",
+                "options": ["Atlas", "R2-D2", "Wall-E", "C-3PO"],
+                "answer": "Atlas"
+              },
+              {
+                "question": "Which component of a robot is responsible for processing data and making decisions?",
+                "options": ["Sensors", "Actuators", "Controller", "Power supply"],
+                "answer": "Controller"
+              }
+            ]
+          },
+          {
+            "id": "thermal_energy",
+            "name": "Thermal & Energy Systems",
+            "description": "Focuses on energy generation, heat transfer, and sustainable energy solutions.",
+            "image": "https://i.ibb.co/YB25L4Z7/thermal.jpg",
+            "apply_link": "https://example.com/apply", 
+            "monthly_salary": "₹60,000 - ₹1,00,000", 
+            "roadmap": [
+              "Bachelor’s in Mechanical or Energy Engineering",
+              "Internships in thermal power plants or renewable energy firms",
+              "Master’s in Renewable Energy or Thermal Systems",
+              "Certifications in HVAC, CFD, and Sustainable Energy",
+              "Research in solar, wind, and hydrogen fuel technology"
+            ],
+            "qualification": [
+              "Bachelor’s in Mechanical or Energy Engineering",
+              "Knowledge of thermodynamics and heat transfer",
+              "Proficiency in simulation tools (ANSYS, CFD, MATLAB)",
+              "Experience with renewable energy systems",
+              "Understanding of energy efficiency and sustainability"
+            ],
+            "related_videos": [
+              {
+                "title": "How Nuclear Power Plants Work",
+                "url": "https://www.youtube.com/watch?v=1U6Nzcv9Vws"
+              },
+              {
+                "title": "The Future of Renewable Energy",
+                "url": "https://www.youtube.com/watch?v=85hGg8INrBo"
+              }
+            ],
+            "related_blogs": [
+              {
+                "title": "Energy Engineering & Sustainability Blogs",
+                "url": "https://www.renewableenergyworld.com/"
+              },
+              {
+                "title": "HVAC & Thermal Systems Research",
+                "url": "https://www.ashrae.org/"
+              }
+            ],
+            "hands_on_projects_and_research": [
+              "Designing a solar-powered water heater",
+              "Optimizing heat exchanger efficiency",
+              "Developing a wind turbine energy conversion system",
+              "Building a hydrogen fuel cell prototype",
+              "Researching thermal energy storage solutions"
+            ],
+            "internship_and_job_market_insight": [
+              "Internships in power plants and renewable energy companies",
+              "Growing demand for sustainable energy engineers",
+              "Opportunities in HVAC system design and maintenance",
+              "Roles in nuclear energy research and thermal management",
+              "Positions in energy policy and environmental consulting"
+            ],
+            "questions": [
+              {
+                "question": "What is the main principle behind a heat pump?",
+                "options": ["Moves heat from a cold area to a warm area", "Generates electricity", "Increases pressure in a system", "Stores thermal energy"],
+                "answer": "Moves heat from a cold area to a warm area"
+              },
+              {
+                "question": "Which cycle is commonly used in thermal power plants?",
+                "options": ["Brayton Cycle", "Otto Cycle", "Rankine Cycle", "Carnot Cycle"],
+                "answer": "Rankine Cycle"
+              },
+              {
+                "question": "What is the primary fuel used in nuclear power plants?",
+                "options": ["Coal", "Natural gas", "Uranium", "Hydrogen"],
+                "answer": "Uranium"
+              },
+              {
+                "question": "What is the primary function of a boiler in a power plant?",
+                "options": ["Generate steam", "Burn fuel for heat", "Condense steam into water", "Store thermal energy"],
+                "answer": "Burn fuel for heat"
+              },
+              {
+                "question": "Which renewable energy source relies on the Earth's internal heat?",
+                "options": ["Solar", "Wind", "Geothermal", "Hydropower"],
+                "answer": "Geothermal"
+              },
+              {
+                "question": "What is cogeneration in energy systems?",
+                "options": ["Simultaneous production of electricity and heat", "Generation of power from solar energy", "Storage of excess electricity", "Distribution of power over long distances"],
+                "answer": "Simultaneous production of electricity and heat"
+              },
+              {
+                "question": "What is the efficiency of a thermal system typically measured by?",
+                "options": ["Heat rate", "Thermal efficiency", "Power output", "All of the above"],
+                "answer": "All of the above"
+              },
+              {
+                "question": "What does the First Law of Thermodynamics state?",
+                "options": ["Energy cannot be created or destroyed", "Energy increases with temperature", "Energy decreases over time", "None of the above"],
+                "answer": "Energy cannot be created or destroyed"
+              },
+              {
+                "question": "What is the major advantage of wind energy?",
+                "options": ["It is renewable", "It produces no emissions", "It is inexpensive", "All of the above"],
+                "answer": "All of the above"
+              },
+              {
+                "question": "What is the role of a turbine in a thermal power plant?",
+                "options": ["To convert heat energy into mechanical energy", "To generate electricity", "To store steam", "To regulate pressure"],
+                "answer": "To convert heat energy into mechanical energy"
+              }
+            ]
+          }
+          
+        ]
+      }
+      
+
+
+
+,
+
+{
+    "id": "BD_GOVT_JOBS",
+    "title": "Bangladesh Government Jobs",
+    "subtitle": "Prepare for Bangladesh Civil Service and other government jobs with expert strategies, exam guidance, and career planning to secure a prestigious role in the public sector!",
+    "image": "https://i.ibb.co.com/4gMTYgLt/govt-banner.png",
+    "apply_link": "",
+    "monthly_salary": "",
+    "sub_cat": [
+      {
+        "id": "bcs",
+        "name": "Bangladesh Civil Service (BCS)",
+        "description": "The most prestigious govt job sector in Bangladesh, offering roles in administration, police etc.",
+        "image": "https://i.ibb.co.com/G3002Kbs/bcs.jpg",
+        "apply_link": "https://bdgovtjob.net/bcs-circular/",
+        "monthly_salary": "~33,100",
+        "roadmap": [
+          "Bachelor’s degree from a recognized university",
+          "Preparation for BCS Preliminary Exam",
+          "Passing the BCS Written Exam",
+          "Qualifying in the BCS Viva Examination",
+          "Medical and Police Verification before final selection"
+        ],
+        "qualification": [
+          "Minimum a Bachelor’s degree in any discipline",
+          "Strong command over Bangla, English, and General Knowledge",
+          "Analytical and problem-solving skills",
+          "Physical fitness (for BCS Police & Defense Cadres)",
+          "High ethical and leadership qualities"
+        ],
+        "related_videos": [
+          {
+            "title": "BCS Exam Preparation Guide",
+            "url": "https://www.youtube.com/watch?v=abc123"
+          },
+          {
+            "title": "How to Crack BCS Exam in First Attempt",
+            "url": "https://www.youtube.com/watch?v=xyz456"
+          }
+        ],
+        "related_blogs": [
+          {
+            "title": "Latest BCS Exam Circular & Guidelines",
+            "url": "https://www.bpsc.gov.bd/"
+          },
+          {
+            "title": "BCS Exam Preparation Strategies",
+            "url": "https://www.shikkhabarta.com/"
+          }
+        ],
+        "hands_on_projects_and_research": [
+          "Practicing BCS previous year question papers",
+          "Engaging in mock interviews and group discussions",
+          "Researching Bangladesh Constitution & Public Administration",
+          "Understanding National & International Current Affairs",
+          "Analyzing case studies on policy implementation"
+        ],
+        "internship_and_job_market_insight": [
+          "Thousands of candidates apply for limited BCS positions annually",
+          "BCS Admin, Police, and Foreign Affairs are the most competitive cadres",
+          "High demand for specialists in Taxation, Customs, and Education",
+          "Growing importance of ICT and Engineering Cadres",
+          "BCS officers receive extensive training and career growth opportunities"
+        ],
+        "questions": [
+          {
+            "question": "What is the national flower of Bangladesh?",
+            "options": ["Rose", "Shapla", "Sunflower", "Lotus"],
+            "answer": "Shapla"
+          },
+          {
+            "question": "Who was the first President of Bangladesh?",
+            "options": ["Sheikh Mujibur Rahman", "Khandaker Moshtaque Ahmed", "Abul Fazal Mohammad", "Ziaur Rahman"],
+            "answer": "Sheikh Mujibur Rahman"
+          },
+          {
+            "question": "The Bangladesh Liberation War took place in which year?",
+            "options": ["1971", "1975", "1980", "1967"],
+            "answer": "1971"
+          },
+          {
+            "question": "Which river is known as the lifeline of Bangladesh?",
+            "options": ["Ganges", "Meghna", "Padma", "Jamuna"],
+            "answer": "Padma"
+          },
+          {
+            "question": "Who is known as the Father of the Nation in Bangladesh?",
+            "options": ["Ziaur Rahman", "Sheikh Mujibur Rahman", "Kazi Nazrul Islam", "Satyendranath Tagore"],
+            "answer": "Sheikh Mujibur Rahman"
+          },
+          {
+            "question": "The United Nations (UN) was established in which year?",
+            "options": ["1945", "1939", "1965", "1950"],
+            "answer": "1945"
+          },
+          {
+            "question": "Who was the first woman Prime Minister of the United Kingdom?",
+            "options": ["Margaret Thatcher", "Indira Gandhi", "Golda Meir", "Benazir Bhutto"],
+            "answer": "Margaret Thatcher"
+          },
+          {
+            "question": "The capital city of Japan is:",
+            "options": ["Seoul", "Tokyo", "Beijing", "Osaka"],
+            "answer": "Tokyo"
+          },
+          {
+            "question": "Which of the following is the largest country in Africa by area?",
+            "options": ["Nigeria", "Egypt", "Algeria", "South Africa"],
+            "answer": "Algeria"
+          },
+          {
+            "question": "Who was the first Bengali to win the Nobel Prize in Literature?",
+            "options": ["Rabindranath Tagore", "Kazi Nazrul Islam", "Bankim Chandra Chattopadhyay", "Mirza Ghalib"],
+            "answer": "Rabindranath Tagore"
+          }
+        ]
+      },
+      {
+        "id": "banking",
+        "name": "Government Banking Related Jobs",
+        "description": "Includes roles in Bangladesh Bank, Sonali Bank, Janata Bank, and other state-owned financial institutions.",
+        "image": "https://i.ibb.co.com/9mLP67m2/bank.jpg",
+        "apply_link": "",
+        "monthly_salary": "35,000 – 80,000",
+        "roadmap": [
+          "Bachelor’s in Finance, Business, Economics, or related field",
+          "Preparation for Bank Recruitment Exams",
+          "Passing the Written Test",
+          "Qualifying in the Viva Examination",
+          "Final Selection and Training before Joining"
+        ],
+        "qualification": [
+          "Minimum a Bachelor’s degree in Business, Economics, or IT",
+          "Strong mathematical and analytical skills",
+          "Understanding of banking laws and regulations",
+          "Computer proficiency (MS Excel, Banking Software)",
+          "Effective communication and customer service skills"
+        ],
+        "related_videos": [
+          {
+            "title": "How to Prepare for Bangladesh Bank Exam",
+            "url": "https://www.youtube.com/watch?v=def789"
+          },
+          {
+            "title": "Top Tips for Bank Job Written Exam",
+            "url": "https://www.youtube.com/watch?v=ghi101"
+          }
+        ],
+        "related_blogs": [
+          {
+            "title": "Latest Govt Banking Job Circulars",
+            "url": "https://www.bdjobs.com/"
+          },
+          {
+            "title": "Bangladesh Bank Job Preparation",
+            "url": "https://www.bb.org.bd/"
+          }
+        ],
+        "hands_on_projects_and_research": [
+          "Practicing banking aptitude test questions",
+          "Studying financial statement analysis",
+          "Understanding monetary policies and economic trends",
+          "Participating in mock interviews for banking jobs",
+          "Analyzing banking fraud and risk management case studies"
+        ],
+        "internship_and_job_market_insight": [
+          "High competition for Bangladesh Bank and state-owned bank positions",
+          "Opportunities in treasury, risk management, and fintech",
+          "Growth in digital banking and fintech innovations",
+          "Stable career with job security and pension benefits",
+          "Bank officers receive extensive training in financial management"
+        ],
+        "questions": [
+          {
+            "question": "What is the main purpose of Bangladesh Bank?",
+            "options": ["Regulate currency exchange", "Control inflation", "Supervise commercial banks", "All of the above"],
+            "answer": "All of the above"
+          },
+          {
+            "question": "What does the acronym CRR stand for in banking?",
+            "options": ["Cash Reserve Ratio", "Central Reserve Rate", "Currency Reserves Return", "Capital Reserve Ratio"],
+            "answer": "Cash Reserve Ratio"
+          },
+          {
+            "question": "Who is responsible for setting the monetary policy in Bangladesh?",
+            "options": ["Prime Minister", "Finance Minister", "Governor of Bangladesh Bank", "President of Bangladesh"],
+            "answer": "Governor of Bangladesh Bank"
+          },
+          {
+            "question": "Which of the following is not a function of Bangladesh Bank?",
+            "options": ["Issuing currency", "Regulating interest rates", "Providing loans to individuals", "Managing foreign exchange reserves"],
+            "answer": "Providing loans to individuals"
+          },
+          {
+            "question": "What is the function of the Bangladesh Bank's foreign exchange reserves?",
+            "options": ["To ensure stable exchange rates", "To fund government projects", "To support the stock market", "To control inflation"],
+            "answer": "To ensure stable exchange rates"
+          },
+          {
+            "question": "What is the purpose of the Bangladesh Bank's repo rate?",
+            "options": ["To increase liquidity in the economy", "To control inflation", "To raise government revenue", "To regulate foreign exchange"],
+            "answer": "To control inflation"
+          },
+          {
+            "question": "Which of the following is a key function of commercial banks in Bangladesh?",
+            "options": ["Lending money to government", "Issuing national currency", "Accepting deposits and providing loans", "Regulating monetary policy"],
+            "answer": "Accepting deposits and providing loans"
+          },
+          {
+            "question": "Which of the following is the central regulatory body for the financial institutions in Bangladesh?",
+            "options": ["Bangladesh Bank", "National Board of Revenue", "Securities and Exchange Commission", "Ministry of Finance"],
+            "answer": "Bangladesh Bank"
+          },
+          {
+            "question": "What is the primary goal of monetary policy in Bangladesh?",
+            "options": ["Ensure financial stability", "Control public debt", "Enhance industrial production", "Promote investment in agriculture"],
+            "answer": "Ensure financial stability"
+          },
+          {
+            "question": "What is the key feature of the Bangladesh Bank's prudential guidelines?",
+            "options": ["Regulating interest rates", "Maintaining banking sector stability", "Controlling inflation", "Generating government revenue"],
+            "answer": "Maintaining banking sector stability"
+          }
+        ]
+      },
+      {
+        "id": "engineering_govt",
+        "name": "Government Engineering Jobs",
+        "description": "Includes roles in PWD, LGED, BPDB, Bangladesh Railway, and other public engineering sectors.",
+        "image": "https://i.ibb.co.com/zhRM9tK7/eng-govt.png",
+        "apply_link": "",
+        "monthly_salary": "40,000 – 100,000",
+        "roadmap": [
+          "Bachelor’s in Civil, Mechanical, Electrical, or relevant Engineering field",
+          "Applying for PSC or respective organization recruitment exams",
+          "Passing the Written Exam",
+          "Qualifying in the Viva Examination",
+          "Final Selection and Technical Training"
+        ],
+        "qualification": [
+          "Bachelor’s in Civil, Electrical, Mechanical, or relevant Engineering",
+          "Knowledge of government infrastructure projects",
+          "Understanding of public works regulations and procurement",
+          "Experience with engineering design and simulation tools",
+          "Project management and problem-solving skills"
+        ],
+
+
+        "related_organizations": [
+          {
+            "Name": "PGCB",
+            "Full_Name": "Power Grid Company of Bangladesh Ltd.",
+            "Sector": "Energy",
+            "Website": "https://www.pgcb.org.bd/",
+            "Image": "https://i.ibb.co.com/fzmXB67f/download-1.png",
+            "Vacancy_Job": "https://pgcb.org.bd/career"
+          },
+          {
+            "Name": "BPDB",
+            "Full_Name": "Bangladesh Power Development Board",
+            "Sector": "Energy",
+            "Website": "https://www.bpdb.gov.bd/",
+            "Image": "https://i.ibb.co.com/zhSpWrGH/images-24.png",
+            "Vacancy_Job": "https://bpdb.gov.bd/career"
+          },
+          {
+            "Name": "DPDC",
+            "Full_Name": "Dhaka Power Distribution Company Ltd.",
+            "Sector": "Energy",
+            "Website": "http://www.dpdc.org.bd/",
+            "Image": "https://i.ibb.co.com/W47LvG0J/images-25.png",
+            "Vacancy_Job": "http://www.dpdc.org.bd/career"
+          },
+          {
+            "Name": "DESCO",
+            "Full_Name": "Dhaka Electric Supply Company Ltd.",
+            "Sector": "Energy",
+            "Website": "https://www.desco.org.bd/",
+            "Image": "https://i.ibb.co.com/1tYB6Xy3/images-26.png",
+            "Vacancy_Job": "https://www.desco.org.bd/career"
+          },
+          {
+            "Name": "BREB",
+            "Full_Name": "Bangladesh Rural Electrification Board",
+            "Sector": "Energy",
+            "Website": "http://www.reb.gov.bd/",
+            "Image": "https://i.ibb.co.com/N24Fh1GJ/images-27.png",
+            "Vacancy_Job": "http://www.reb.gov.bd/career"
+          }
+        ],
+
+
+
+        "related_videos": [
+          {
+            "title": "How to Prepare for Govt Engineering Jobs",
+            "url": "https://www.youtube.com/watch?v=jkl234"
+          },
+          {
+            "title": "PSC Engineering Exam Tips",
+            "url": "https://www.youtube.com/watch?v=mno567"
+          }
+        ],
+        "related_blogs": [
+          {
+            "title": "Latest Engineering Job Circulars",
+            "url": "https://www.bdjobs.com/"
+          },
+          {
+            "title": "Government Engineering Exam Preparation",
+            "url": "https://www.lged.gov.bd/"
+          }
+        ],
+        "hands_on_projects_and_research": [
+          "Studying structural analysis and design projects",
+          "Learning about power grid management and automation",
+          "Understanding railway track design and transportation systems",
+          "Analyzing energy-efficient building materials",
+          "Working on renewable energy projects for rural areas"
+        ],
+        "internship_and_job_market_insight": [
+          "Engineering jobs in Bangladesh government provide stability and benefits",
+          "Increasing demand for civil engineers in urban development projects",
+          "Opportunities in power grid expansion and energy sector reforms",
+          "Growth in railway and transportation infrastructure projects",
+          "Government engineers play a key role in national development initiatives"
+        ],
+        "questions": [
+          {
+            "question": "Which of the following is a primary function of a government engineering department?",
+            "options": [
+              "Developing public infrastructure projects",
+              "Managing private enterprises",
+              "Conducting market research",
+              "Regulating foreign trade"
+            ],
+            "answer": "Developing public infrastructure projects"
+          },
+          {
+            "question": "What does CAD stand for in the context of engineering design?",
+            "options": [
+              "Computer-Aided Design",
+              "Component Analysis and Development",
+              "Computerized Assembly Data",
+              "Calculated Aerodynamic Draft"
+            ],
+            "answer": "Computer-Aided Design"
+          },
+          {
+            "question": "Which government agency is typically responsible for overseeing large-scale public works projects?",
+            "options": [
+              "Ministry of Finance",
+              "Ministry of Infrastructure",
+              "Ministry of Education",
+              "Ministry of Foreign Affairs"
+            ],
+            "answer": "Ministry of Infrastructure"
+          },
+          {
+            "question": "Which material is most commonly used in the construction of government-funded highways?",
+            "options": [
+              "Wood",
+              "Asphalt",
+              "Marble",
+              "Glass"
+            ],
+            "answer": "Asphalt"
+          },
+          {
+            "question": "What is the importance of environmental impact assessments (EIAs) in government engineering projects?",
+            "options": [
+              "To increase project costs",
+              "To ensure projects comply with environmental regulations",
+              "To delay project implementation",
+              "To minimize technological advancements"
+            ],
+            "answer": "To ensure projects comply with environmental regulations"
+          },
+          {
+            "question": "Which engineering discipline is primarily responsible for designing water supply systems in government projects?",
+            "options": [
+              "Civil Engineering",
+              "Mechanical Engineering",
+              "Electrical Engineering",
+              "Chemical Engineering"
+            ],
+            "answer": "Civil Engineering"
+          },
+          {
+            "question": "In project management, what does the term 'critical path' refer to?",
+            "options": [
+              "The shortest route to complete a project",
+              "The sequence of tasks that determines the minimum project duration",
+              "A path that is not essential to project completion",
+              "A random selection of project tasks"
+            ],
+            "answer": "The sequence of tasks that determines the minimum project duration"
+          },
+          {
+            "question": "Which software is widely used for structural analysis in government engineering projects?",
+            "options": [
+              "Microsoft Excel",
+              "SAP ERP",
+              "ANSYS",
+              "Adobe Photoshop"
+            ],
+            "answer": "ANSYS"
+          },
+          {
+            "question": "What is the role of quality control in government engineering projects?",
+            "options": [
+              "To reduce the overall budget",
+              "To ensure that project specifications and standards are met",
+              "To delay the project timeline",
+              "To design the project layout"
+            ],
+            "answer": "To ensure that project specifications and standards are met"
+          },
+          {
+            "question": "Which of the following is a key factor in sustainable engineering practices for government projects?",
+            "options": [
+              "Maximizing resource consumption",
+              "Reducing energy efficiency",
+              "Incorporating renewable energy sources",
+              "Eliminating maintenance protocols"
+            ],
+            "answer": "Incorporating renewable energy sources"
+          }
+        ]
+      }
+    ]
+  }
+
+]

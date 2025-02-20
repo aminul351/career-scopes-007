@@ -6,7 +6,7 @@ import FAQ from './FAQ';
 
 const WhyUs = () => {
     return (
-        <div>
+        <div className='px-12'>
           <Benefit/>
           <Mission/>
           <Vision/>

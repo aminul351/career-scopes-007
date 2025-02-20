@@ -32,7 +32,6 @@ const Testimonial = () => {
 
     return (
         <div className='' data-aos="fade-up">
-            <h3 className='text-3xl lg:text-7xl font-semibold text-center'>join the conversation</h3>
             <Swiper
                 slidesPerView={1}
                 spaceBetween={30}
